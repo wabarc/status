@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Wayback Archiver",
+    "url": "https://initium.eu.org",
+    "icon": "https://favicons.githubusercontent.com/initium.eu.org",
+    "slug": "wayback-archiver",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 305,
+    "timeDay": 305,
+    "timeWeek": 305,
+    "timeMonth": 305,
+    "timeYear": 305,
+    "dailyMinutesDown": {}
+  }
+]
