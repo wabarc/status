@@ -4,17 +4,17 @@
     "url": "https://initium.eu.org",
     "icon": "https://favicons.githubusercontent.com/initium.eu.org",
     "slug": "wayback-archiver",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 684,
-    "timeDay": 666,
-    "timeWeek": 592,
-    "timeMonth": 684,
-    "timeYear": 684,
+    "time": 709,
+    "timeDay": 804,
+    "timeWeek": 646,
+    "timeMonth": 709,
+    "timeYear": 709,
     "dailyMinutesDown": {}
   }
 ]
