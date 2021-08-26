@@ -4,19 +4,19 @@
     "url": "https://wabarc.eu.org",
     "icon": "https://favicons.githubusercontent.com/wabarc.eu.org",
     "slug": "wayback-archiver",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 523,
-    "timeDay": 664,
-    "timeWeek": 648,
-    "timeMonth": 487,
-    "timeYear": 523,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.97%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
+    "time": 524,
+    "timeDay": 655,
+    "timeWeek": 647,
+    "timeMonth": 489,
+    "timeYear": 524,
     "dailyMinutesDown": {
-      "2021-08-26": 0
+      "2021-08-26": 29
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://initium.eu.org",
     "icon": "https://favicons.githubusercontent.com/initium.eu.org",
     "slug": "wayback-archiver-documentation",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 480,
-    "timeDay": 463,
-    "timeWeek": 480,
-    "timeMonth": 480,
-    "timeYear": 480,
+    "status": "up",
+    "uptime": "99.67%",
+    "uptimeDay": "97.98%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.67%",
+    "time": 460,
+    "timeDay": 408,
+    "timeWeek": 460,
+    "timeMonth": 460,
+    "timeYear": 460,
     "dailyMinutesDown": {
-      "2021-08-26": 0
+      "2021-08-26": 29
     }
   },
   {
