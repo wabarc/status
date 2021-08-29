@@ -10,11 +10,11 @@
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
-    "time": 528,
-    "timeDay": 803,
-    "timeWeek": 699,
-    "timeMonth": 510,
-    "timeYear": 528,
+    "time": 529,
+    "timeDay": 623,
+    "timeWeek": 706,
+    "timeMonth": 506,
+    "timeYear": 529,
     "dailyMinutesDown": {
       "2021-08-26": 29
     }
@@ -25,16 +25,16 @@
     "icon": "https://favicons.githubusercontent.com/initium.eu.org",
     "slug": "wayback-archiver-documentation",
     "status": "up",
-    "uptime": "99.73%",
+    "uptime": "99.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.73%",
-    "uptimeYear": "99.73%",
-    "time": 466,
-    "timeDay": 271,
-    "timeWeek": 507,
-    "timeMonth": 466,
-    "timeYear": 466,
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
+    "time": 440,
+    "timeDay": 152,
+    "timeWeek": 504,
+    "timeMonth": 440,
+    "timeYear": 440,
     "dailyMinutesDown": {
       "2021-08-26": 29
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 234,
-    "timeDay": 182,
-    "timeWeek": 225,
-    "timeMonth": 234,
-    "timeYear": 234,
+    "time": 227,
+    "timeDay": 165,
+    "timeWeek": 227,
+    "timeMonth": 227,
+    "timeYear": 227,
     "dailyMinutesDown": {}
   }
 ]
