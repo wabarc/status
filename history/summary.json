@@ -26,9 +26,9 @@
     "url": "https://initium.eu.org",
     "icon": "https://favicons.githubusercontent.com/initium.eu.org",
     "slug": "wayback-archiver-documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.75%",
@@ -38,6 +38,7 @@
     "timeMonth": 476,
     "timeYear": 476,
     "dailyMinutesDown": {
+      "2021-09-13": 0,
       "2021-09-03": 11,
       "2021-09-01": 44,
       "2021-08-26": 29
