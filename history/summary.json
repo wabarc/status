@@ -59,17 +59,19 @@
     "url": "https://wabarcstatus.eu.org",
     "icon": "https://favicons.githubusercontent.com/wabarcstatus.eu.org",
     "slug": "wayback-archiver-status",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 252,
-    "timeDay": 259,
-    "timeWeek": 447,
-    "timeMonth": 261,
+    "timeDay": 252,
+    "timeWeek": 422,
+    "timeMonth": 260,
     "timeYear": 252,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-05": 0
+    }
   }
 ]
