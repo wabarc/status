@@ -9,10 +9,8 @@ sites:
     url: https://initium.eu.org
   - name: Wayback Archiver Status
     url: https://wabarcstatus.eu.org
-  - name: APT / Debian Repository
-    url: https://apt.wabarc.eu.org/
-  - name: RPM Repository
-    url: https://rpm.wabarc.eu.org/
+  - name: Packages Repository
+    url: https://repo.wabarc.eu.org/
 
 status-website:
   name: Wayback Archiver Status
