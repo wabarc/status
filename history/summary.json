@@ -4,18 +4,19 @@
     "url": "https://wabarc.eu.org",
     "icon": "https://favicons.githubusercontent.com/wabarc.eu.org",
     "slug": "wayback-archiver",
-    "status": "up",
+    "status": "down",
     "uptime": "98.71%",
-    "uptimeDay": "81.86%",
+    "uptimeDay": "88.05%",
     "uptimeWeek": "96.74%",
-    "uptimeMonth": "95.73%",
+    "uptimeMonth": "96.05%",
     "uptimeYear": "98.32%",
     "time": 614,
-    "timeDay": 454,
-    "timeWeek": 389,
-    "timeMonth": 911,
+    "timeDay": 459,
+    "timeWeek": 403,
+    "timeMonth": 920,
     "timeYear": 634,
     "dailyMinutesDown": {
+      "2022-09-01": 0,
       "2022-08-31": 172,
       "2022-08-30": 89,
       "2022-08-29": 43,
@@ -84,8 +85,7 @@
       "2021-09-20": 17,
       "2021-09-17": 517,
       "2021-09-16": 263,
-      "2021-09-03": 11,
-      "2021-09-01": 38
+      "2021-09-03": 11
     }
   },
   {
@@ -97,13 +97,13 @@
     "uptime": "99.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.76%",
-    "uptimeMonth": "97.71%",
+    "uptimeMonth": "97.80%",
     "uptimeYear": "99.11%",
     "time": 368,
-    "timeDay": 238,
-    "timeWeek": 389,
-    "timeMonth": 369,
-    "timeYear": 365,
+    "timeDay": 409,
+    "timeWeek": 406,
+    "timeMonth": 360,
+    "timeYear": 366,
     "dailyMinutesDown": {
       "2022-08-26": 24,
       "2022-08-24": 99,
@@ -147,8 +147,7 @@
       "2021-09-17": 218,
       "2021-09-16": 156,
       "2021-09-13": 8,
-      "2021-09-03": 11,
-      "2021-09-01": 44
+      "2021-09-03": 11
     }
   },
   {
@@ -163,9 +162,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
     "time": 247,
-    "timeDay": 321,
-    "timeWeek": 251,
-    "timeMonth": 253,
+    "timeDay": 305,
+    "timeWeek": 252,
+    "timeMonth": 252,
     "timeYear": 247,
     "dailyMinutesDown": {
       "2022-07-02": 94,
@@ -185,11 +184,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 687,
-    "timeDay": 633,
-    "timeWeek": 687,
-    "timeMonth": 687,
-    "timeYear": 687,
+    "time": 700,
+    "timeDay": 752,
+    "timeWeek": 700,
+    "timeMonth": 700,
+    "timeYear": 700,
     "dailyMinutesDown": {}
   }
 ]
