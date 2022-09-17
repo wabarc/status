@@ -9,12 +9,12 @@
     "uptimeDay": "77.83%",
     "uptimeWeek": "94.51%",
     "uptimeMonth": "95.49%",
-    "uptimeYear": "98.16%",
+    "uptimeYear": "98.17%",
     "time": 620,
     "timeDay": 320,
     "timeWeek": 372,
     "timeMonth": 582,
-    "timeYear": 643,
+    "timeYear": 634,
     "dailyMinutesDown": {
       "2022-09-16": 319,
       "2022-09-13": 234,
@@ -105,7 +105,7 @@
     "timeDay": 283,
     "timeWeek": 292,
     "timeMonth": 339,
-    "timeYear": 357,
+    "timeYear": 347,
     "dailyMinutesDown": {
       "2022-09-16": 180,
       "2022-09-13": 117,
@@ -182,17 +182,19 @@
     "url": "https://repo.wabarc.eu.org/",
     "icon": "https://favicons.githubusercontent.com/repo.wabarc.eu.org",
     "slug": "packages-repository",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 663,
-    "timeDay": 645,
-    "timeWeek": 612,
-    "timeMonth": 663,
-    "timeYear": 663,
-    "dailyMinutesDown": {}
+    "time": 652,
+    "timeDay": 530,
+    "timeWeek": 587,
+    "timeMonth": 652,
+    "timeYear": 652,
+    "dailyMinutesDown": {
+      "2022-09-17": 0
+    }
   }
 ]
