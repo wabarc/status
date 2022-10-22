@@ -1,7 +1,7 @@
 url: https://wabarc.eu.org
-status: up
-code: 200
-responseTime: 566
-lastUpdated: 2022-10-21T23:18:06.546Z
+status: down
+code: 503
+responseTime: 198
+lastUpdated: 2022-10-22T06:43:50.481Z
 startTime: Wed May 12 2021 13:54:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
