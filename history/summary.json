@@ -4,17 +4,17 @@
     "url": "https://wabarc.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/wabarc.eu.org.ico",
     "slug": "wayback-archiver",
-    "status": "up",
-    "uptime": "98.77%",
-    "uptimeDay": "85.45%",
+    "status": "down",
+    "uptime": "98.78%",
+    "uptimeDay": "85.44%",
     "uptimeWeek": "81.13%",
     "uptimeMonth": "94.19%",
     "uptimeYear": "97.50%",
-    "time": 874,
-    "timeDay": 2435,
-    "timeWeek": 2524,
-    "timeMonth": 1654,
-    "timeYear": 944,
+    "time": 876,
+    "timeDay": 2321,
+    "timeWeek": 2490,
+    "timeMonth": 1646,
+    "timeYear": 945,
     "dailyMinutesDown": {
       "2023-05-27": 143,
       "2023-05-26": 66,
@@ -91,7 +91,7 @@
       "2022-07-08": 128,
       "2022-07-02": 94,
       "2022-07-01": 202,
-      "2022-06-30": 77
+      "2022-06-30": 44
     }
   },
   {
