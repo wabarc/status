@@ -4,16 +4,16 @@
     "url": "https://wabarc.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/wabarc.eu.org.ico",
     "slug": "wayback-archiver",
-    "status": "up",
+    "status": "down",
     "uptime": "98.89%",
-    "uptimeDay": "89.85%",
+    "uptimeDay": "89.84%",
     "uptimeWeek": "90.24%",
     "uptimeMonth": "89.18%",
     "uptimeYear": "97.69%",
-    "time": 917,
-    "timeDay": 1007,
+    "time": 912,
+    "timeDay": 1011,
     "timeWeek": 1019,
-    "timeMonth": 1537,
+    "timeMonth": 1534,
     "timeYear": 1003,
     "dailyMinutesDown": {
       "2023-06-09": 146,
@@ -75,8 +75,7 @@
       "2022-09-01": 159,
       "2022-08-31": 172,
       "2022-08-30": 89,
-      "2022-08-29": 43,
-      "2022-08-26": 24
+      "2022-08-29": 43
     }
   },
   {
@@ -84,16 +83,16 @@
     "url": "https://initium.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/initium.eu.org.ico",
     "slug": "wayback-archiver-documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "95.54%",
+    "uptimeDay": "95.53%",
     "uptimeWeek": "96.20%",
-    "uptimeMonth": "93.94%",
+    "uptimeMonth": "93.93%",
     "uptimeYear": "99.15%",
     "time": 521,
-    "timeDay": 812,
-    "timeWeek": 652,
-    "timeMonth": 1018,
+    "timeDay": 814,
+    "timeWeek": 655,
+    "timeMonth": 1017,
     "timeYear": 582,
     "dailyMinutesDown": {
       "2023-06-09": 65,
@@ -132,8 +131,7 @@
       "2022-10-21": 29,
       "2022-10-20": 91,
       "2022-10-18": 29,
-      "2022-10-13": 205,
-      "2022-10-12": 38
+      "2022-10-13": 205
     }
   },
   {
@@ -166,9 +164,9 @@
     "slug": "packages-repository",
     "status": "up",
     "uptime": "99.42%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.39%",
-    "uptimeMonth": "98.75%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "98.78%",
     "uptimeYear": "99.42%",
     "time": 984,
     "timeDay": 649,
@@ -176,7 +174,6 @@
     "timeMonth": 730,
     "timeYear": 984,
     "dailyMinutesDown": {
-      "2023-06-09": 12,
       "2023-06-07": 29,
       "2023-06-06": 20,
       "2023-06-01": 37,
