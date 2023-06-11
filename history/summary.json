@@ -4,16 +4,16 @@
     "url": "https://wabarc.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/wabarc.eu.org.ico",
     "slug": "wayback-archiver",
-    "status": "up",
-    "uptime": "98.91%",
-    "uptimeDay": "89.85%",
-    "uptimeWeek": "88.53%",
+    "status": "down",
+    "uptime": "98.94%",
+    "uptimeDay": "90.54%",
+    "uptimeWeek": "88.52%",
     "uptimeMonth": "89.40%",
-    "uptimeYear": "97.73%",
-    "time": 924,
-    "timeDay": 929,
-    "timeWeek": 1005,
-    "timeMonth": 1508,
+    "uptimeYear": "97.79%",
+    "time": 926,
+    "timeDay": 931,
+    "timeWeek": 1006,
+    "timeMonth": 1505,
     "timeYear": 1004,
     "dailyMinutesDown": {
       "2023-06-11": 75,
@@ -71,8 +71,7 @@
       "2022-09-19": 86,
       "2022-09-16": 319,
       "2022-09-13": 234,
-      "2022-09-09": 113,
-      "2022-09-08": 271
+      "2022-09-09": 113
     }
   },
   {
@@ -80,17 +79,17 @@
     "url": "https://initium.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/initium.eu.org.ico",
     "slug": "wayback-archiver-documentation",
-    "status": "up",
-    "uptime": "99.55%",
-    "uptimeDay": "96.60%",
-    "uptimeWeek": "96.37%",
+    "status": "down",
+    "uptime": "99.56%",
+    "uptimeDay": "97.29%",
+    "uptimeWeek": "96.36%",
     "uptimeMonth": "94.38%",
-    "uptimeYear": "99.19%",
-    "time": 531,
-    "timeDay": 613,
-    "timeWeek": 674,
-    "timeMonth": 1021,
-    "timeYear": 584,
+    "uptimeYear": "99.21%",
+    "time": 532,
+    "timeDay": 698,
+    "timeWeek": 681,
+    "timeMonth": 1022,
+    "timeYear": 585,
     "dailyMinutesDown": {
       "2023-06-11": 39,
       "2023-06-10": 18,
@@ -127,8 +126,7 @@
       "2022-10-25": 119,
       "2022-10-23": 24,
       "2022-10-22": 43,
-      "2022-10-21": 29,
-      "2022-10-20": 91
+      "2022-10-21": 29
     }
   },
   {
