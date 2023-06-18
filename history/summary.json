@@ -4,16 +4,16 @@
     "url": "https://wabarc.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/wabarc.eu.org.ico",
     "slug": "wayback-archiver",
-    "status": "up",
-    "uptime": "99.02%",
-    "uptimeDay": "95.74%",
-    "uptimeWeek": "91.95%",
+    "status": "down",
+    "uptime": "99.03%",
+    "uptimeDay": "95.73%",
+    "uptimeWeek": "92.67%",
     "uptimeMonth": "88.35%",
-    "uptimeYear": "97.95%",
+    "uptimeYear": "97.97%",
     "time": 926,
-    "timeDay": 644,
-    "timeWeek": 1898,
-    "timeMonth": 1693,
+    "timeDay": 711,
+    "timeWeek": 2020,
+    "timeMonth": 1689,
     "timeYear": 1060,
     "dailyMinutesDown": {
       "2023-06-18": 52,
@@ -68,8 +68,7 @@
       "2022-10-12": 132,
       "2022-10-08": 54,
       "2022-10-05": 517,
-      "2022-10-04": 881,
-      "2022-10-01": 111
+      "2022-10-04": 881
     }
   },
   {
@@ -80,12 +79,12 @@
     "status": "up",
     "uptime": "99.57%",
     "uptimeDay": "95.74%",
-    "uptimeWeek": "94.60%",
+    "uptimeWeek": "94.97%",
     "uptimeMonth": "93.64%",
     "uptimeYear": "99.22%",
     "time": 562,
     "timeDay": 741,
-    "timeWeek": 953,
+    "timeWeek": 979,
     "timeMonth": 1053,
     "timeYear": 606,
     "dailyMinutesDown": {
@@ -164,7 +163,7 @@
     "time": 973,
     "timeDay": 694,
     "timeWeek": 811,
-    "timeMonth": 770,
+    "timeMonth": 778,
     "timeYear": 973,
     "dailyMinutesDown": {
       "2023-06-16": 29,
