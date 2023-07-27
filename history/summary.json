@@ -16,7 +16,7 @@
     "timeMonth": 632,
     "timeYear": 1083,
     "dailyMinutesDown": {
-      "2023-07-27": 231,
+      "2023-07-27": 249,
       "2023-07-26": 1440,
       "2023-07-25": 1440,
       "2023-07-24": 1440,
@@ -101,15 +101,15 @@
     "url": "https://initium.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/initium.eu.org.ico",
     "slug": "wayback-archiver-documentation",
-    "status": "up",
-    "uptime": "99.24%",
-    "uptimeDay": "22.93%",
-    "uptimeWeek": "25.32%",
-    "uptimeMonth": "82.38%",
-    "uptimeYear": "98.53%",
+    "status": "down",
+    "uptime": "99.25%",
+    "uptimeDay": "24.09%",
+    "uptimeWeek": "25.49%",
+    "uptimeMonth": "82.61%",
+    "uptimeYear": "98.55%",
     "time": 519,
-    "timeDay": 377,
-    "timeWeek": 405,
+    "timeDay": 370,
+    "timeWeek": 406,
     "timeMonth": 444,
     "timeYear": 518,
     "dailyMinutesDown": {
@@ -120,8 +120,7 @@
       "2023-07-23": 1148,
       "2023-07-22": 1183,
       "2023-07-21": 1022,
-      "2023-07-20": 1020,
-      "2023-07-19": 40
+      "2023-07-20": 956
     }
   },
   {
