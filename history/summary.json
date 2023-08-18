@@ -9,14 +9,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "83.84%",
+    "uptimeYear": "83.83%",
     "time": 1060,
     "timeDay": 518,
     "timeWeek": 530,
     "timeMonth": 596,
     "timeYear": 1024,
     "dailyMinutesDown": {
-      "2023-08-18": 554,
+      "2023-08-18": 576,
       "2023-08-17": 1440,
       "2023-08-16": 1440,
       "2023-08-15": 1440,
@@ -123,15 +123,15 @@
     "url": "https://initium.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/initium.eu.org.ico",
     "slug": "wayback-archiver-documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "31.15%",
-    "uptimeWeek": "31.91%",
-    "uptimeMonth": "84.33%",
-    "uptimeYear": "98.69%",
+    "uptimeDay": "32.67%",
+    "uptimeWeek": "32.19%",
+    "uptimeMonth": "84.40%",
+    "uptimeYear": "98.70%",
     "time": 482,
-    "timeDay": 408,
-    "timeWeek": 409,
+    "timeDay": 409,
+    "timeWeek": 408,
     "timeMonth": 412,
     "timeYear": 487,
     "dailyMinutesDown": {
@@ -142,7 +142,7 @@
       "2023-08-14": 1227,
       "2023-08-13": 1027,
       "2023-08-12": 1075,
-      "2023-08-11": 58
+      "2023-08-11": 30
     }
   },
   {
@@ -170,18 +170,19 @@
     "url": "https://repo.wabarc.eu.org/",
     "icon": "https://icons.duckduckgo.com/ip3/repo.wabarc.eu.org.ico",
     "slug": "packages-repository",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.52%",
     "time": 985,
-    "timeDay": 690,
-    "timeWeek": 687,
-    "timeMonth": 1503,
+    "timeDay": 474,
+    "timeWeek": 651,
+    "timeMonth": 1481,
     "timeYear": 985,
     "dailyMinutesDown": {
+      "2023-08-18": 0,
       "2023-08-04": 23,
       "2023-07-24": 43,
       "2023-07-23": 27,
@@ -254,8 +255,7 @@
       "2022-11-27": 20,
       "2022-11-23": 16,
       "2022-11-18": 119,
-      "2022-11-15": 27,
-      "2022-10-05": 27
+      "2022-11-15": 27
     }
   }
 ]
