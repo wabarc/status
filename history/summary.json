@@ -9,14 +9,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "81.44%",
+    "uptimeYear": "81.43%",
     "time": 1062,
     "timeDay": 559,
     "timeWeek": 718,
     "timeMonth": 615,
     "timeYear": 1040,
     "dailyMinutesDown": {
-      "2023-08-27": 209,
+      "2023-08-27": 220,
       "2023-08-26": 1440,
       "2023-08-25": 1440,
       "2023-08-24": 1440,
@@ -132,17 +132,17 @@
     "url": "https://initium.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/initium.eu.org.ico",
     "slug": "wayback-archiver-documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "99.38%",
-    "uptimeDay": "21.76%",
-    "uptimeWeek": "34.71%",
-    "uptimeMonth": "84.98%",
+    "uptimeDay": "22.51%",
+    "uptimeWeek": "34.92%",
+    "uptimeMonth": "85.03%",
     "uptimeYear": "98.75%",
     "time": 474,
-    "timeDay": 403,
-    "timeWeek": 402,
+    "timeDay": 416,
+    "timeWeek": 404,
     "timeMonth": 410,
-    "timeYear": 478,
+    "timeYear": 479,
     "dailyMinutesDown": {
       "2023-08-27": 150,
       "2023-08-26": 1155,
@@ -151,7 +151,7 @@
       "2023-08-23": 855,
       "2023-08-22": 1089,
       "2023-08-21": 1067,
-      "2023-08-20": 127
+      "2023-08-20": 105
     }
   },
   {
@@ -180,18 +180,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/repo.wabarc.eu.org.ico",
     "slug": "packages-repository",
     "status": "up",
-    "uptime": "99.55%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.55%",
+    "uptime": "99.53%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.53%",
     "time": 982,
     "timeDay": 684,
     "timeWeek": 905,
     "timeMonth": 988,
     "timeYear": 982,
     "dailyMinutesDown": {
-      "2023-08-27": 11,
       "2023-08-23": 15,
       "2023-08-18": 22,
       "2023-08-04": 23,
@@ -264,7 +263,8 @@
       "2022-12-04": 22,
       "2022-12-01": 18,
       "2022-11-27": 20,
-      "2022-11-23": 16
+      "2022-11-23": 16,
+      "2022-11-18": 119
     }
   }
 ]
