@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/wabarc.eu.org.ico",
     "slug": "wayback-archiver",
     "status": "down",
-    "uptime": "90.77%",
+    "uptime": "90.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 639,
     "timeYear": 1036,
     "dailyMinutesDown": {
-      "2023-09-06": 870,
+      "2023-09-06": 881,
       "2023-09-05": 1440,
       "2023-09-04": 1440,
       "2023-09-03": 1440,
@@ -142,16 +142,16 @@
     "url": "https://initium.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/initium.eu.org.ico",
     "slug": "wayback-archiver-documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "99.34%",
-    "uptimeDay": "24.08%",
-    "uptimeWeek": "29.27%",
-    "uptimeMonth": "83.72%",
-    "uptimeYear": "98.64%",
-    "time": 468,
-    "timeDay": 465,
-    "timeWeek": 387,
-    "timeMonth": 404,
+    "uptimeDay": "24.75%",
+    "uptimeWeek": "29.94%",
+    "uptimeMonth": "83.88%",
+    "uptimeYear": "98.66%",
+    "time": 469,
+    "timeDay": 505,
+    "timeWeek": 392,
+    "timeMonth": 405,
     "timeYear": 469,
     "dailyMinutesDown": {
       "2023-09-06": 748,
@@ -161,7 +161,7 @@
       "2023-09-02": 1106,
       "2023-09-01": 1130,
       "2023-08-31": 1122,
-      "2023-08-30": 100
+      "2023-08-30": 32
     }
   },
   {
