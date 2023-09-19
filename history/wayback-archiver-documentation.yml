@@ -1,7 +1,7 @@
 url: https://initium.eu.org
-status: up
-code: 200
-responseTime: 151
-lastUpdated: 2023-09-19T04:32:00.927Z
+status: down
+code: 503
+responseTime: 664
+lastUpdated: 2023-09-19T04:43:05.856Z
 startTime: 2021-08-20T15:43:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
