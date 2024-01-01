@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/wabarc.eu.org.ico",
     "slug": "wayback-archiver",
     "status": "up",
-    "uptime": "88.68%",
+    "uptime": "88.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "70.15%",
     "time": 1009,
-    "timeDay": 660,
+    "timeDay": 439,
     "timeWeek": 701,
-    "timeMonth": 671,
+    "timeMonth": 666,
     "timeYear": 1032,
     "dailyMinutesDown": {
       "2023-10-15": 57,
@@ -179,10 +179,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.57%",
-    "time": 465,
-    "timeDay": 551,
-    "timeWeek": 590,
-    "timeMonth": 603,
+    "time": 466,
+    "timeDay": 1028,
+    "timeWeek": 674,
+    "timeMonth": 569,
     "timeYear": 468,
     "dailyMinutesDown": {
       "2023-10-15": 46,
@@ -210,10 +210,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.90%",
     "time": 264,
-    "timeDay": 363,
-    "timeWeek": 278,
-    "timeMonth": 260,
-    "timeYear": 258,
+    "timeDay": 188,
+    "timeWeek": 237,
+    "timeMonth": 255,
+    "timeYear": 257,
     "dailyMinutesDown": {
       "2023-10-12": 882,
       "2023-10-11": 1440,
@@ -234,9 +234,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.57%",
     "time": 967,
-    "timeDay": 492,
-    "timeWeek": 521,
-    "timeMonth": 648,
+    "timeDay": 370,
+    "timeWeek": 493,
+    "timeMonth": 642,
     "timeYear": 890,
     "dailyMinutesDown": {
       "2023-12-18": 17,
@@ -311,8 +311,7 @@
       "2023-02-24": 20,
       "2023-02-11": 22,
       "2023-02-08": 40,
-      "2023-02-06": 44,
-      "2023-01-01": 19
+      "2023-02-06": 44
     }
   }
 ]
