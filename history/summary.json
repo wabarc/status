@@ -6,9 +6,9 @@
     "slug": "wayback-archiver",
     "status": "up",
     "uptime": "89.10%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.72%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.75%",
     "uptimeYear": "70.20%",
     "time": 1022,
     "timeDay": 508,
@@ -16,7 +16,6 @@
     "timeMonth": 632,
     "timeYear": 1035,
     "dailyMinutesDown": {
-      "2024-02-04": 11,
       "2024-01-23": 109,
       "2023-10-15": 57,
       "2023-10-14": 64,
@@ -164,7 +163,8 @@
       "2023-05-14": 115,
       "2023-05-12": 78,
       "2023-05-11": 364,
-      "2023-04-06": 17
+      "2023-04-06": 17,
+      "2023-02-26": 23
     }
   },
   {
@@ -173,18 +173,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/initium.eu.org.ico",
     "slug": "wayback-archiver-documentation",
     "status": "up",
-    "uptime": "99.43%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.73%",
-    "uptimeYear": "98.59%",
+    "uptime": "99.42%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "98.57%",
     "time": 468,
     "timeDay": 540,
     "timeWeek": 757,
     "timeMonth": 675,
     "timeYear": 472,
     "dailyMinutesDown": {
-      "2024-02-04": 11,
       "2024-01-23": 108,
       "2023-10-15": 46,
       "2023-10-14": 45,
@@ -195,7 +194,7 @@
       "2023-10-05": 1192,
       "2023-10-04": 1096,
       "2023-10-03": 1051,
-      "2023-10-02": 977
+      "2023-10-02": 1079
     }
   },
   {
@@ -227,18 +226,19 @@
     "url": "https://repo.wabarc.eu.org/",
     "icon": "https://icons.duckduckgo.com/ip3/repo.wabarc.eu.org.ico",
     "slug": "packages-repository",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.66%",
     "uptimeMonth": "99.33%",
     "uptimeYear": "99.55%",
-    "time": 936,
-    "timeDay": 358,
-    "timeWeek": 449,
-    "timeMonth": 510,
-    "timeYear": 804,
+    "time": 935,
+    "timeDay": 313,
+    "timeWeek": 440,
+    "timeMonth": 507,
+    "timeYear": 803,
     "dailyMinutesDown": {
+      "2024-02-04": 0,
       "2024-02-02": 15,
       "2024-01-30": 19,
       "2024-01-26": 16,
@@ -311,8 +311,7 @@
       "2023-04-05": 29,
       "2023-04-04": 21,
       "2023-04-01": 20,
-      "2023-03-29": 17,
-      "2023-03-22": 20
+      "2023-03-29": 17
     }
   }
 ]
