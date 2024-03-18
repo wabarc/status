@@ -4,10 +4,10 @@
     "url": "https://wabarc.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/wabarc.eu.org.ico",
     "slug": "wayback-archiver",
-    "status": "up",
+    "status": "down",
     "uptime": "89.55%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "70.20%",
     "time": 973,
@@ -16,6 +16,7 @@
     "timeMonth": 803,
     "timeYear": 1048,
     "dailyMinutesDown": {
+      "2024-03-18": 1,
       "2024-01-23": 109,
       "2023-10-15": 57,
       "2023-10-14": 64,
@@ -227,17 +228,17 @@
     "slug": "packages-repository",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "93.64%",
-    "uptimeWeek": "97.52%",
-    "uptimeMonth": "96.74%",
+    "uptimeDay": "96.51%",
+    "uptimeWeek": "97.63%",
+    "uptimeMonth": "96.76%",
     "uptimeYear": "99.54%",
     "time": 1107,
-    "timeDay": 2555,
+    "timeDay": 2800,
     "timeWeek": 1960,
     "timeMonth": 1627,
     "timeYear": 1085,
     "dailyMinutesDown": {
-      "2024-03-18": 61,
+      "2024-03-18": 50,
       "2024-03-17": 47,
       "2024-03-16": 16,
       "2024-03-15": 28,
@@ -297,7 +298,7 @@
       "2023-07-23": 27,
       "2023-07-02": 33,
       "2023-06-27": 63,
-      "2023-06-26": 18
+      "2023-06-26": 40
     }
   }
 ]
