@@ -4,18 +4,19 @@
     "url": "https://wabarc.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/wabarc.eu.org.ico",
     "slug": "wayback-archiver",
-    "status": "up",
+    "status": "down",
     "uptime": "89.56%",
-    "uptimeDay": "98.93%",
-    "uptimeWeek": "99.85%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "70.20%",
-    "time": 975,
-    "timeDay": 2533,
+    "time": 976,
+    "timeDay": 901,
     "timeWeek": 1265,
-    "timeMonth": 824,
+    "timeMonth": 809,
     "timeYear": 1048,
     "dailyMinutesDown": {
+      "2024-03-19": 2,
       "2024-03-18": 15,
       "2024-01-23": 109,
       "2023-10-15": 57,
@@ -163,8 +164,7 @@
       "2023-05-15": 87,
       "2023-05-14": 115,
       "2023-05-12": 78,
-      "2023-05-11": 364,
-      "2023-04-06": 17
+      "2023-05-11": 364
     }
   },
   {
@@ -172,18 +172,19 @@
     "url": "https://initium.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/initium.eu.org.ico",
     "slug": "wayback-archiver-documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.57%",
+    "uptimeYear": "98.59%",
     "time": 472,
-    "timeDay": 4898,
-    "timeWeek": 1148,
+    "timeDay": 458,
+    "timeWeek": 1149,
     "timeMonth": 737,
     "timeYear": 475,
     "dailyMinutesDown": {
+      "2024-03-19": 0,
       "2024-01-23": 108,
       "2023-10-15": 46,
       "2023-10-14": 45,
@@ -194,7 +195,7 @@
       "2023-10-05": 1192,
       "2023-10-04": 1096,
       "2023-10-03": 1051,
-      "2023-10-02": 1079
+      "2023-10-02": 977
     }
   },
   {
@@ -208,11 +209,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.90%",
-    "time": 269,
-    "timeDay": 4817,
-    "timeWeek": 925,
-    "timeMonth": 415,
-    "timeYear": 266,
+    "time": 271,
+    "timeDay": 1223,
+    "timeWeek": 1053,
+    "timeMonth": 452,
+    "timeYear": 268,
     "dailyMinutesDown": {
       "2023-10-12": 882,
       "2023-10-11": 1440,
@@ -228,17 +229,17 @@
     "slug": "packages-repository",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "95.73%",
-    "uptimeWeek": "97.52%",
-    "uptimeMonth": "96.74%",
+    "uptimeDay": "96.51%",
+    "uptimeWeek": "97.63%",
+    "uptimeMonth": "96.76%",
     "uptimeYear": "99.54%",
     "time": 1105,
-    "timeDay": 2797,
-    "timeWeek": 1915,
+    "timeDay": 3109,
+    "timeWeek": 1699,
     "timeMonth": 1620,
     "timeYear": 1084,
     "dailyMinutesDown": {
-      "2024-03-18": 61,
+      "2024-03-18": 50,
       "2024-03-17": 47,
       "2024-03-16": 16,
       "2024-03-15": 28,
@@ -298,7 +299,7 @@
       "2023-07-23": 27,
       "2023-07-02": 33,
       "2023-06-27": 63,
-      "2023-06-26": 18
+      "2023-06-26": 40
     }
   }
 ]
