@@ -4,18 +4,19 @@
     "url": "https://wabarc.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/wabarc.eu.org.ico",
     "slug": "wayback-archiver",
-    "status": "up",
-    "uptime": "89.70%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.40%",
+    "status": "down",
+    "uptime": "89.76%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.39%",
     "uptimeMonth": "99.64%",
-    "uptimeYear": "70.30%",
-    "time": 1007,
+    "uptimeYear": "70.48%",
+    "time": 1008,
     "timeDay": 535,
     "timeWeek": 779,
     "timeMonth": 1349,
     "timeYear": 1080,
     "dailyMinutesDown": {
+      "2024-03-29": 2,
       "2024-03-24": 17,
       "2024-03-23": 43,
       "2024-03-22": 26,
@@ -162,8 +163,7 @@
       "2023-05-27": 282,
       "2023-05-26": 66,
       "2023-05-25": 376,
-      "2023-05-24": 548,
-      "2023-05-23": 769
+      "2023-05-24": 357
     }
   },
   {
@@ -171,18 +171,19 @@
     "url": "https://initium.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/initium.eu.org.ico",
     "slug": "wayback-archiver-documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.76%",
-    "uptimeYear": "98.58%",
+    "uptimeYear": "98.60%",
     "time": 472,
     "timeDay": 576,
     "timeWeek": 511,
     "timeMonth": 677,
     "timeYear": 475,
     "dailyMinutesDown": {
+      "2024-03-29": 0,
       "2024-03-23": 25,
       "2024-03-22": 24,
       "2024-03-19": 54,
@@ -196,7 +197,7 @@
       "2023-10-05": 1192,
       "2023-10-04": 1096,
       "2023-10-03": 1051,
-      "2023-10-02": 901
+      "2023-10-02": 824
     }
   },
   {
@@ -230,9 +231,9 @@
     "slug": "packages-repository",
     "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "95.81%",
-    "uptimeWeek": "96.98%",
-    "uptimeMonth": "96.78%",
+    "uptimeDay": "96.58%",
+    "uptimeWeek": "97.09%",
+    "uptimeMonth": "96.80%",
     "uptimeYear": "99.54%",
     "time": 1123,
     "timeDay": 603,
@@ -240,7 +241,7 @@
     "timeMonth": 1184,
     "timeYear": 1109,
     "dailyMinutesDown": {
-      "2024-03-29": 43,
+      "2024-03-29": 32,
       "2024-03-28": 39,
       "2024-03-27": 38,
       "2024-03-26": 42,
@@ -290,7 +291,8 @@
       "2024-01-22": 73,
       "2024-01-19": 17,
       "2024-01-18": 36,
-      "2024-01-15": 40
+      "2024-01-15": 40,
+      "2023-12-18": 17
     }
   }
 ]
