@@ -231,17 +231,17 @@
     "slug": "packages-repository",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "92.60%",
-    "uptimeWeek": "95.99%",
-    "uptimeMonth": "96.74%",
+    "uptimeDay": "97.20%",
+    "uptimeWeek": "96.10%",
+    "uptimeMonth": "96.76%",
     "uptimeYear": "99.57%",
     "time": 1187,
-    "timeDay": 580,
-    "timeWeek": 1021,
+    "timeDay": 602,
+    "timeWeek": 1025,
     "timeMonth": 1378,
     "timeYear": 1217,
     "dailyMinutesDown": {
-      "2024-04-23": 98,
+      "2024-04-23": 87,
       "2024-04-22": 63,
       "2024-04-21": 62,
       "2024-04-20": 70,
@@ -284,7 +284,7 @@
       "2024-03-09": 73,
       "2024-03-08": 25,
       "2024-03-07": 50,
-      "2024-03-06": 16
+      "2024-03-06": 36
     }
   }
 ]
