@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/wabarc.eu.org.ico",
     "slug": "wayback-archiver",
     "status": "up",
-    "uptime": "90.01%",
+    "uptime": "90.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
@@ -229,17 +229,17 @@
     "url": "https://repo.wabarc.eu.org/",
     "icon": "https://icons.duckduckgo.com/ip3/repo.wabarc.eu.org.ico",
     "slug": "packages-repository",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "96.10%",
-    "uptimeWeek": "96.31%",
+    "uptimeDay": "96.07%",
+    "uptimeWeek": "96.46%",
     "uptimeMonth": "96.71%",
-    "uptimeYear": "99.56%",
+    "uptimeYear": "99.57%",
     "time": 1189,
-    "timeDay": 732,
-    "timeWeek": 1047,
-    "timeMonth": 1368,
-    "timeYear": 1212,
+    "timeDay": 758,
+    "timeWeek": 910,
+    "timeMonth": 1366,
+    "timeYear": 1214,
     "dailyMinutesDown": {
       "2024-04-25": 56,
       "2024-04-23": 87,
@@ -284,7 +284,7 @@
       "2024-03-10": 65,
       "2024-03-09": 73,
       "2024-03-08": 25,
-      "2024-03-07": 50
+      "2024-03-07": 19
     }
   }
 ]
