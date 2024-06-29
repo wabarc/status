@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/wabarc.eu.org.ico",
     "slug": "wayback-archiver",
     "status": "up",
-    "uptime": "90.57%",
+    "uptime": "90.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.65%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "71.89%",
+    "uptimeYear": "72.09%",
     "time": 1032,
-    "timeDay": 1365,
-    "timeWeek": 2268,
-    "timeMonth": 1447,
-    "timeYear": 789,
+    "timeDay": 1050,
+    "timeWeek": 2352,
+    "timeMonth": 1466,
+    "timeYear": 790,
     "dailyMinutesDown": {
       "2024-06-26": 36,
       "2024-03-29": 21,
@@ -128,8 +128,7 @@
       "2023-07-04": 1440,
       "2023-07-03": 1440,
       "2023-07-02": 1440,
-      "2023-07-01": 1440,
-      "2023-06-30": 1440
+      "2023-07-01": 1440
     }
   },
   {
@@ -144,9 +143,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "98.60%",
     "time": 447,
-    "timeDay": 548,
-    "timeWeek": 710,
-    "timeMonth": 781,
+    "timeDay": 467,
+    "timeWeek": 697,
+    "timeMonth": 776,
     "timeYear": 438,
     "dailyMinutesDown": {
       "2024-06-26": 34,
@@ -179,9 +178,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.90%",
     "time": 274,
-    "timeDay": 195,
-    "timeWeek": 310,
-    "timeMonth": 309,
+    "timeDay": 212,
+    "timeWeek": 312,
+    "timeMonth": 304,
     "timeYear": 281,
     "dailyMinutesDown": {
       "2023-10-12": 882,
@@ -197,18 +196,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/repo.wabarc.eu.org.ico",
     "slug": "packages-repository",
     "status": "up",
-    "uptime": "99.75%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "97.72%",
-    "uptimeMonth": "96.68%",
+    "uptime": "99.74%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.83%",
+    "uptimeMonth": "96.74%",
     "uptimeYear": "99.53%",
     "time": 1252,
-    "timeDay": 492,
-    "timeWeek": 690,
-    "timeMonth": 1267,
+    "timeDay": 559,
+    "timeWeek": 702,
+    "timeMonth": 1287,
     "timeYear": 1282,
     "dailyMinutesDown": {
-      "2024-06-28": 11,
       "2024-06-26": 48,
       "2024-06-25": 42,
       "2024-06-24": 103,
@@ -247,7 +245,7 @@
       "2024-05-18": 135,
       "2024-05-17": 72,
       "2024-05-16": 18,
-      "2024-05-15": 44
+      "2024-05-15": 66
     }
   }
 ]
