@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/wabarc.eu.org.ico",
     "slug": "wayback-archiver",
     "status": "up",
-    "uptime": "90.62%",
+    "uptime": "90.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "73.61%",
-    "time": 1030,
-    "timeDay": 1009,
-    "timeWeek": 883,
-    "timeMonth": 1477,
+    "uptimeYear": "73.73%",
+    "time": 1029,
+    "timeDay": 448,
+    "timeWeek": 752,
+    "timeMonth": 1463,
     "timeYear": 792,
     "dailyMinutesDown": {
       "2024-06-26": 36,
@@ -122,8 +122,7 @@
       "2023-07-10": 1440,
       "2023-07-09": 1440,
       "2023-07-08": 1440,
-      "2023-07-07": 1440,
-      "2023-07-06": 1440
+      "2023-07-07": 1440
     }
   },
   {
@@ -138,9 +137,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "98.60%",
     "time": 440,
-    "timeDay": 766,
-    "timeWeek": 1385,
-    "timeMonth": 960,
+    "timeDay": 608,
+    "timeWeek": 1394,
+    "timeMonth": 962,
     "timeYear": 441,
     "dailyMinutesDown": {
       "2024-06-26": 34,
@@ -173,8 +172,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.90%",
     "time": 275,
-    "timeDay": 613,
-    "timeWeek": 348,
+    "timeDay": 188,
+    "timeWeek": 347,
     "timeMonth": 338,
     "timeYear": 283,
     "dailyMinutesDown": {
@@ -192,17 +191,16 @@
     "slug": "packages-repository",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "98.10%",
-    "uptimeWeek": "98.32%",
-    "uptimeMonth": "97.69%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.43%",
+    "uptimeMonth": "97.81%",
     "uptimeYear": "99.53%",
     "time": 1255,
-    "timeDay": 568,
-    "timeWeek": 1856,
-    "timeMonth": 1161,
+    "timeDay": 457,
+    "timeWeek": 1959,
+    "timeMonth": 1183,
     "timeYear": 1302,
     "dailyMinutesDown": {
-      "2024-07-04": 11,
       "2024-07-03": 16,
       "2024-07-02": 62,
       "2024-06-30": 44,
@@ -242,7 +240,7 @@
       "2024-05-21": 139,
       "2024-05-20": 128,
       "2024-05-19": 94,
-      "2024-05-18": 113
+      "2024-05-18": 135
     }
   }
 ]
