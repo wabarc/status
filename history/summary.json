@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "74.23%",
-    "time": 1028,
-    "timeDay": 472,
-    "timeWeek": 670,
-    "timeMonth": 1460,
-    "timeYear": 791,
+    "uptimeYear": "74.28%",
+    "time": 1027,
+    "timeDay": 488,
+    "timeWeek": 621,
+    "timeMonth": 1444,
+    "timeYear": 792,
     "dailyMinutesDown": {
       "2024-06-26": 36,
       "2024-03-29": 21,
@@ -120,8 +120,7 @@
       "2023-07-12": 1440,
       "2023-07-11": 1440,
       "2023-07-10": 1440,
-      "2023-07-09": 1440,
-      "2023-07-08": 1440
+      "2023-07-09": 1440
     }
   },
   {
@@ -136,9 +135,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "98.60%",
     "time": 442,
-    "timeDay": 5961,
-    "timeWeek": 2179,
-    "timeMonth": 1146,
+    "timeDay": 403,
+    "timeWeek": 2088,
+    "timeMonth": 1143,
     "timeYear": 442,
     "dailyMinutesDown": {
       "2024-06-26": 34,
@@ -171,9 +170,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.90%",
     "time": 275,
-    "timeDay": 360,
-    "timeWeek": 368,
-    "timeMonth": 332,
+    "timeDay": 290,
+    "timeWeek": 386,
+    "timeMonth": 335,
     "timeYear": 283,
     "dailyMinutesDown": {
       "2023-10-12": 882,
@@ -190,17 +189,17 @@
     "slug": "packages-repository",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "97.51%",
-    "uptimeWeek": "98.44%",
-    "uptimeMonth": "97.78%",
-    "uptimeYear": "99.54%",
+    "uptimeDay": "98.29%",
+    "uptimeWeek": "98.55%",
+    "uptimeMonth": "97.80%",
+    "uptimeYear": "99.53%",
     "time": 1261,
-    "timeDay": 3158,
-    "timeWeek": 1935,
+    "timeDay": 3125,
+    "timeWeek": 1929,
     "timeMonth": 1305,
     "timeYear": 1307,
     "dailyMinutesDown": {
-      "2024-07-06": 36,
+      "2024-07-06": 25,
       "2024-07-03": 16,
       "2024-07-02": 62,
       "2024-06-30": 44,
@@ -240,7 +239,7 @@
       "2024-05-21": 139,
       "2024-05-20": 128,
       "2024-05-19": 94,
-      "2024-05-18": 71
+      "2024-05-18": 113
     }
   }
 ]
