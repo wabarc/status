@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "75.56%",
-    "time": 999,
-    "timeDay": 1176,
-    "timeWeek": 662,
-    "timeMonth": 1417,
-    "timeYear": 794,
+    "uptimeYear": "75.65%",
+    "time": 998,
+    "timeDay": 559,
+    "timeWeek": 677,
+    "timeMonth": 1392,
+    "timeYear": 793,
     "dailyMinutesDown": {
       "2024-06-26": 36,
       "2024-03-29": 21,
@@ -115,8 +115,7 @@
       "2023-07-17": 1440,
       "2023-07-16": 1440,
       "2023-07-15": 1440,
-      "2023-07-14": 1440,
-      "2023-07-13": 1440
+      "2023-07-14": 1440
     }
   },
   {
@@ -131,8 +130,8 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "98.60%",
     "time": 442,
-    "timeDay": 560,
-    "timeWeek": 1349,
+    "timeDay": 480,
+    "timeWeek": 1330,
     "timeMonth": 1148,
     "timeYear": 439,
     "dailyMinutesDown": {
@@ -165,11 +164,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.90%",
-    "time": 276,
-    "timeDay": 167,
-    "timeWeek": 327,
-    "timeMonth": 343,
-    "timeYear": 284,
+    "time": 286,
+    "timeDay": 5218,
+    "timeWeek": 1045,
+    "timeMonth": 511,
+    "timeYear": 297,
     "dailyMinutesDown": {
       "2023-10-12": 882,
       "2023-10-11": 1440,
@@ -185,17 +184,16 @@
     "slug": "packages-repository",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "98.28%",
-    "uptimeMonth": "97.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.41%",
+    "uptimeMonth": "97.99%",
     "uptimeYear": "99.52%",
     "time": 1261,
-    "timeDay": 511,
-    "timeWeek": 1117,
-    "timeMonth": 1314,
-    "timeYear": 1301,
+    "timeDay": 476,
+    "timeWeek": 1118,
+    "timeMonth": 1329,
+    "timeYear": 1302,
     "dailyMinutesDown": {
-      "2024-07-11": 12,
       "2024-07-09": 93,
       "2024-07-08": 21,
       "2024-07-07": 22,
@@ -238,7 +236,8 @@
       "2024-05-22": 47,
       "2024-05-21": 139,
       "2024-05-20": 128,
-      "2024-05-19": 94
+      "2024-05-19": 94,
+      "2024-05-18": 18
     }
   }
 ]
