@@ -9,11 +9,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "81.63%",
+    "uptimeYear": "81.68%",
     "time": 972,
-    "timeDay": 533,
-    "timeWeek": 643,
-    "timeMonth": 881,
+    "timeDay": 786,
+    "timeWeek": 664,
+    "timeMonth": 875,
     "timeYear": 810,
     "dailyMinutesDown": {
       "2024-06-26": 36,
@@ -93,8 +93,7 @@
       "2023-08-08": 1440,
       "2023-08-07": 1440,
       "2023-08-06": 1440,
-      "2023-08-05": 1440,
-      "2023-08-04": 1440
+      "2023-08-05": 1440
     }
   },
   {
@@ -109,9 +108,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.60%",
     "time": 448,
-    "timeDay": 741,
-    "timeWeek": 728,
-    "timeMonth": 1111,
+    "timeDay": 438,
+    "timeWeek": 627,
+    "timeMonth": 1094,
     "timeYear": 450,
     "dailyMinutesDown": {
       "2024-06-26": 34,
@@ -144,9 +143,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.90%",
     "time": 289,
-    "timeDay": 391,
-    "timeWeek": 347,
-    "timeMonth": 505,
+    "timeDay": 318,
+    "timeWeek": 353,
+    "timeMonth": 502,
     "timeYear": 303,
     "dailyMinutesDown": {
       "2023-10-12": 882,
@@ -163,17 +162,16 @@
     "slug": "packages-repository",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.52%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.54%",
     "uptimeYear": "99.52%",
-    "time": 1273,
-    "timeDay": 4613,
-    "timeWeek": 2987,
-    "timeMonth": 1241,
-    "timeYear": 1302,
+    "time": 1276,
+    "timeDay": 5935,
+    "timeWeek": 3446,
+    "timeMonth": 1331,
+    "timeYear": 1305,
     "dailyMinutesDown": {
-      "2024-08-02": 11,
       "2024-07-27": 24,
       "2024-07-09": 93,
       "2024-07-08": 21,
@@ -217,7 +215,7 @@
       "2024-05-22": 47,
       "2024-05-21": 139,
       "2024-05-20": 128,
-      "2024-05-19": 76
+      "2024-05-19": 94
     }
   }
 ]
