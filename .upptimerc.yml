@@ -5,8 +5,10 @@ repo: status # The name of this repository
 sites:
   - name: Wayback Archiver
     url: https://wabarc.eu.org
-  - name: Wayback Archiver Documentation
+  - name: Wayback Archiver Mirror
     url: https://initium.eu.org
+  - name: Wayback Archiver Documentation
+    url: https://docs.wabarc.eu.org
   - name: Wayback Archiver Status
     url: https://wabarcstatus.eu.org
   - name: Packages Repository
@@ -25,6 +27,6 @@ status-website:
     - title: Status
       href: /
     - title: Website
-      href: https://initium.eu.org
+      href: https://wabarc.eu.org
     - title: GitHub
       href: https://github.com/$OWNER
