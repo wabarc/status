@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "95.25%",
     "uptimeMonth": "97.40%",
-    "uptimeYear": "89.39%",
+    "uptimeYear": "89.41%",
     "time": 936,
     "timeDay": 0,
     "timeWeek": 483,
@@ -71,8 +71,7 @@
       "2023-09-06": 1440,
       "2023-09-05": 1440,
       "2023-09-04": 1440,
-      "2023-09-03": 1440,
-      "2023-09-02": 1440
+      "2023-09-03": 1440
     }
   },
   {
@@ -168,18 +167,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/repo.wabarc.eu.org.ico",
     "slug": "packages-repository",
     "status": "up",
-    "uptime": "99.73%",
-    "uptimeDay": "70.59%",
-    "uptimeWeek": "91.06%",
-    "uptimeMonth": "95.73%",
-    "uptimeYear": "99.45%",
+    "uptime": "99.72%",
+    "uptimeDay": "71.25%",
+    "uptimeWeek": "91.16%",
+    "uptimeMonth": "95.75%",
+    "uptimeYear": "99.44%",
     "time": 1546,
     "timeDay": 5927,
     "timeWeek": 3912,
     "timeMonth": 3890,
     "timeYear": 1577,
     "dailyMinutesDown": {
-      "2024-08-31": 423,
+      "2024-08-31": 414,
       "2024-08-30": 132,
       "2024-08-29": 153,
       "2024-08-28": 88,
@@ -226,7 +225,7 @@
       "2024-06-13": 18,
       "2024-06-12": 71,
       "2024-06-11": 45,
-      "2024-06-10": 44
+      "2024-06-10": 116
     }
   }
 ]
