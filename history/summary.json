@@ -6,9 +6,9 @@
     "slug": "wayback-archiver",
     "status": "down",
     "uptime": "91.18%",
-    "uptimeDay": "78.39%",
-    "uptimeWeek": "96.91%",
-    "uptimeMonth": "98.15%",
+    "uptimeDay": "71.00%",
+    "uptimeWeek": "95.86%",
+    "uptimeMonth": "97.90%",
     "uptimeYear": "95.63%",
     "time": 929,
     "timeDay": 2941,
@@ -16,7 +16,8 @@
     "timeMonth": 726,
     "timeYear": 833,
     "dailyMinutesDown": {
-      "2024-09-23": 311,
+      "2024-09-24": 98,
+      "2024-09-23": 320,
       "2024-09-09": 22,
       "2024-08-27": 18,
       "2024-08-26": 134,
@@ -50,8 +51,7 @@
       "2023-09-29": 1440,
       "2023-09-28": 1440,
       "2023-09-27": 1440,
-      "2023-09-26": 1440,
-      "2023-09-25": 1440
+      "2023-09-26": 1440
     }
   },
   {
@@ -60,18 +60,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/initium.eu.org.ico",
     "slug": "wayback-archiver-mirror",
     "status": "down",
-    "uptime": "98.27%",
-    "uptimeDay": "78.39%",
-    "uptimeWeek": "96.91%",
-    "uptimeMonth": "98.15%",
-    "uptimeYear": "98.27%",
+    "uptime": "98.11%",
+    "uptimeDay": "71.01%",
+    "uptimeWeek": "95.86%",
+    "uptimeMonth": "97.90%",
+    "uptimeYear": "98.11%",
     "time": 682,
     "timeDay": 553,
     "timeWeek": 543,
     "timeMonth": 606,
     "timeYear": 682,
     "dailyMinutesDown": {
-      "2024-09-23": 311,
+      "2024-09-24": 98,
+      "2024-09-23": 320,
       "2024-09-09": 22,
       "2024-08-27": 18,
       "2024-08-26": 134,
@@ -150,17 +151,17 @@
     "slug": "packages-repository",
     "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "97.28%",
-    "uptimeWeek": "96.91%",
-    "uptimeMonth": "94.27%",
-    "uptimeYear": "99.41%",
+    "uptimeDay": "98.05%",
+    "uptimeWeek": "97.02%",
+    "uptimeMonth": "94.30%",
+    "uptimeYear": "99.40%",
     "time": 1759,
     "timeDay": 3533,
     "timeWeek": 4327,
     "timeMonth": 3848,
     "timeYear": 1791,
     "dailyMinutesDown": {
-      "2024-09-23": 39,
+      "2024-09-23": 28,
       "2024-09-22": 69,
       "2024-09-20": 43,
       "2024-09-19": 116,
@@ -198,7 +199,7 @@
       "2024-08-16": 68,
       "2024-08-15": 73,
       "2024-08-14": 20,
-      "2024-08-12": 82
+      "2024-08-12": 102
     }
   }
 ]
