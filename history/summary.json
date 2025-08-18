@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "89.04%",
-    "time": 1010,
-    "timeDay": 414,
-    "timeWeek": 520,
-    "timeMonth": 673,
-    "timeYear": 1007,
+    "time": 1009,
+    "timeDay": 492,
+    "timeWeek": 504,
+    "timeMonth": 674,
+    "timeYear": 1008,
     "dailyMinutesDown": {
       "2025-07-31": 32,
       "2025-07-06": 94,
@@ -95,8 +95,7 @@
       "2024-09-09": 22,
       "2024-08-27": 18,
       "2024-08-26": 134,
-      "2024-08-25": 326,
-      "2024-08-18": 23
+      "2024-08-25": 326
     }
   },
   {
@@ -105,15 +104,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/initium.eu.org.ico",
     "slug": "wayback-archiver-mirror",
     "status": "up",
-    "uptime": "89.18%",
+    "uptime": "89.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "89.01%",
-    "time": 734,
-    "timeDay": 545,
-    "timeWeek": 514,
-    "timeMonth": 461,
+    "time": 733,
+    "timeDay": 483,
+    "timeWeek": 521,
+    "timeMonth": 462,
     "timeYear": 724,
     "dailyMinutesDown": {
       "2025-07-31": 30,
@@ -192,8 +191,7 @@
       "2024-09-09": 22,
       "2024-08-27": 18,
       "2024-08-26": 134,
-      "2024-08-25": 326,
-      "2024-08-18": 23
+      "2024-08-25": 326
     }
   },
   {
@@ -208,9 +206,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.01%",
     "time": 629,
-    "timeDay": 137,
-    "timeWeek": 310,
-    "timeMonth": 390,
+    "timeDay": 326,
+    "timeWeek": 337,
+    "timeMonth": 392,
     "timeYear": 571,
     "dailyMinutesDown": {
       "2025-01-26": 379,
@@ -231,11 +229,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 480,
-    "timeDay": 254,
-    "timeWeek": 297,
-    "timeMonth": 475,
-    "timeYear": 529,
+    "time": 481,
+    "timeDay": 615,
+    "timeWeek": 331,
+    "timeMonth": 483,
+    "timeYear": 530,
     "dailyMinutesDown": {}
   },
   {
@@ -245,17 +243,16 @@
     "slug": "packages-repository",
     "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "96.19%",
-    "uptimeMonth": "97.60%",
-    "uptimeYear": "98.75%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.29%",
+    "uptimeMonth": "97.63%",
+    "uptimeYear": "98.74%",
     "time": 3369,
-    "timeDay": 3754,
-    "timeWeek": 4479,
-    "timeMonth": 3382,
-    "timeYear": 3374,
+    "timeDay": 4467,
+    "timeWeek": 4700,
+    "timeMonth": 3380,
+    "timeYear": 3383,
     "dailyMinutesDown": {
-      "2025-08-17": 10,
       "2025-08-16": 73,
       "2025-08-15": 7,
       "2025-08-14": 169,
@@ -313,7 +310,7 @@
       "2025-04-30": 34,
       "2025-04-29": 19,
       "2025-04-28": 81,
-      "2025-04-24": 154
+      "2025-04-24": 220
     }
   }
 ]
