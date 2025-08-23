@@ -243,17 +243,17 @@
     "url": "https://repo.wabarc.eu.org/",
     "icon": "https://icons.duckduckgo.com/ip3/repo.wabarc.eu.org.ico",
     "slug": "packages-repository",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "98.26%",
-    "uptimeWeek": "98.78%",
+    "uptimeDay": "98.25%",
+    "uptimeWeek": "98.77%",
     "uptimeMonth": "97.39%",
     "uptimeYear": "98.75%",
     "time": 3416,
-    "timeDay": 4626,
-    "timeWeek": 4463,
-    "timeMonth": 3755,
-    "timeYear": 3373,
+    "timeDay": 3938,
+    "timeWeek": 4335,
+    "timeMonth": 3729,
+    "timeYear": 3371,
     "dailyMinutesDown": {
       "2025-08-23": 25,
       "2025-08-21": 16,
@@ -315,7 +315,7 @@
       "2025-04-30": 34,
       "2025-04-29": 19,
       "2025-04-28": 81,
-      "2025-04-24": 55
+      "2025-04-24": 23
     }
   }
 ]
