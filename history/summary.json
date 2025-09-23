@@ -10,10 +10,10 @@
     "uptimeWeek": "99.60%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "89.12%",
-    "time": 990,
-    "timeDay": 394,
-    "timeWeek": 430,
-    "timeMonth": 683,
+    "time": 989,
+    "timeDay": 382,
+    "timeWeek": 436,
+    "timeMonth": 674,
     "timeYear": 1016,
     "dailyMinutesDown": {
       "2025-09-22": 20,
@@ -93,8 +93,7 @@
       "2024-09-27": 1440,
       "2024-09-26": 1440,
       "2024-09-25": 1440,
-      "2024-09-24": 1440,
-      "2024-09-23": 320
+      "2024-09-24": 1440
     }
   },
   {
@@ -103,15 +102,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/initium.eu.org.ico",
     "slug": "wayback-archiver-mirror",
     "status": "up",
-    "uptime": "90.11%",
+    "uptime": "90.12%",
     "uptimeDay": "96.53%",
     "uptimeWeek": "99.50%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "89.08%",
-    "time": 720,
-    "timeDay": 439,
-    "timeWeek": 412,
-    "timeMonth": 459,
+    "time": 719,
+    "timeDay": 428,
+    "timeWeek": 420,
+    "timeMonth": 446,
     "timeYear": 724,
     "dailyMinutesDown": {
       "2025-09-22": 50,
@@ -187,8 +186,7 @@
       "2024-09-27": 1440,
       "2024-09-26": 1440,
       "2024-09-25": 1440,
-      "2024-09-24": 1440,
-      "2024-09-23": 320
+      "2024-09-24": 1440
     }
   },
   {
@@ -203,10 +201,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.01%",
     "time": 616,
-    "timeDay": 152,
-    "timeWeek": 510,
-    "timeMonth": 405,
-    "timeYear": 549,
+    "timeDay": 422,
+    "timeWeek": 514,
+    "timeMonth": 406,
+    "timeYear": 550,
     "dailyMinutesDown": {
       "2025-01-26": 379,
       "2025-01-25": 1440,
@@ -227,9 +225,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 488,
-    "timeDay": 206,
-    "timeWeek": 310,
-    "timeMonth": 450,
+    "timeDay": 311,
+    "timeWeek": 321,
+    "timeMonth": 444,
     "timeYear": 508,
     "dailyMinutesDown": {}
   },
@@ -245,10 +243,10 @@
     "uptimeMonth": "97.95%",
     "uptimeYear": "98.81%",
     "time": 3284,
-    "timeDay": 639,
-    "timeWeek": 1834,
-    "timeMonth": 3153,
-    "timeYear": 3244,
+    "timeDay": 599,
+    "timeWeek": 1847,
+    "timeMonth": 3152,
+    "timeYear": 3235,
     "dailyMinutesDown": {
       "2025-09-22": 19,
       "2025-09-21": 100,
