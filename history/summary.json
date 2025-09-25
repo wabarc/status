@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.60%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "89.43%",
-    "time": 996,
-    "timeDay": 5061,
-    "timeWeek": 960,
-    "timeMonth": 806,
-    "timeYear": 1016,
+    "uptimeYear": "89.47%",
+    "time": 989,
+    "timeDay": 558,
+    "timeWeek": 977,
+    "timeMonth": 812,
+    "timeYear": 1017,
     "dailyMinutesDown": {
       "2025-09-22": 20,
       "2025-09-21": 20,
@@ -91,8 +91,7 @@
       "2024-09-29": 1440,
       "2024-09-28": 1440,
       "2024-09-27": 1440,
-      "2024-09-26": 1440,
-      "2024-09-25": 1440
+      "2024-09-26": 1440
     }
   },
   {
@@ -101,15 +100,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/initium.eu.org.ico",
     "slug": "wayback-archiver-mirror",
     "status": "up",
-    "uptime": "90.16%",
+    "uptime": "90.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.50%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "89.39%",
+    "uptimeYear": "89.44%",
     "time": 727,
-    "timeDay": 4705,
-    "timeWeek": 903,
-    "timeMonth": 567,
+    "timeDay": 432,
+    "timeWeek": 878,
+    "timeMonth": 571,
     "timeYear": 733,
     "dailyMinutesDown": {
       "2025-09-22": 50,
@@ -183,8 +182,7 @@
       "2024-09-29": 1440,
       "2024-09-28": 1440,
       "2024-09-27": 1440,
-      "2024-09-26": 1440,
-      "2024-09-25": 1440
+      "2024-09-26": 1440
     }
   },
   {
@@ -198,10 +196,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.01%",
-    "time": 616,
-    "timeDay": 304,
-    "timeWeek": 534,
-    "timeMonth": 402,
+    "time": 614,
+    "timeDay": 345,
+    "timeWeek": 528,
+    "timeMonth": 407,
     "timeYear": 549,
     "dailyMinutesDown": {
       "2025-01-26": 379,
@@ -223,9 +221,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 488,
-    "timeDay": 237,
-    "timeWeek": 318,
-    "timeMonth": 427,
+    "timeDay": 391,
+    "timeWeek": 338,
+    "timeMonth": 432,
     "timeYear": 508,
     "dailyMinutesDown": {}
   },
@@ -236,17 +234,17 @@
     "slug": "packages-repository",
     "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "91.08%",
-    "uptimeWeek": "96.43%",
-    "uptimeMonth": "97.86%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "96.54%",
+    "uptimeMonth": "97.88%",
     "uptimeYear": "98.80%",
     "time": 3274,
-    "timeDay": 1140,
-    "timeWeek": 1631,
-    "timeMonth": 3131,
+    "timeDay": 597,
+    "timeWeek": 1634,
+    "timeMonth": 3132,
     "timeYear": 3216,
     "dailyMinutesDown": {
-      "2025-09-24": 128,
+      "2025-09-24": 117,
       "2025-09-23": 1,
       "2025-09-22": 19,
       "2025-09-21": 100,
@@ -312,7 +310,7 @@
       "2025-06-11": 1440,
       "2025-06-10": 384,
       "2025-06-09": 15,
-      "2025-06-04": 38
+      "2025-06-04": 60
     }
   }
 ]
