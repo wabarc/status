@@ -6,10 +6,10 @@
     "slug": "wayback-archiver",
     "status": "up",
     "uptime": "91.07%",
-    "uptimeDay": "88.43%",
+    "uptimeDay": "97.49%",
     "uptimeWeek": "96.38%",
     "uptimeMonth": "99.17%",
-    "uptimeYear": "92.86%",
+    "uptimeYear": "92.89%",
     "time": 1071,
     "timeDay": 359,
     "timeWeek": 3162,
@@ -78,8 +78,7 @@
       "2024-11-11": 1440,
       "2024-11-10": 1440,
       "2024-11-09": 1440,
-      "2024-11-08": 1440,
-      "2024-11-07": 1440
+      "2024-11-08": 1440
     }
   },
   {
@@ -89,10 +88,10 @@
     "slug": "wayback-archiver-mirror",
     "status": "up",
     "uptime": "91.00%",
-    "uptimeDay": "88.43%",
+    "uptimeDay": "97.49%",
     "uptimeWeek": "96.64%",
     "uptimeMonth": "99.23%",
-    "uptimeYear": "92.82%",
+    "uptimeYear": "92.84%",
     "time": 803,
     "timeDay": 492,
     "timeWeek": 3232,
@@ -160,8 +159,7 @@
       "2024-11-11": 1440,
       "2024-11-10": 1440,
       "2024-11-09": 1440,
-      "2024-11-08": 1440,
-      "2024-11-07": 1440
+      "2024-11-08": 1440
     }
   },
   {
@@ -213,14 +211,14 @@
     "slug": "packages-repository",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "70.39%",
+    "uptimeDay": "75.23%",
     "uptimeWeek": "89.27%",
     "uptimeMonth": "89.46%",
     "uptimeYear": "99.12%",
     "time": 3572,
-    "timeDay": 3786,
+    "timeDay": 3993,
     "timeWeek": 3881,
-    "timeMonth": 4220,
+    "timeMonth": 4228,
     "timeYear": 3586,
     "dailyMinutesDown": {
       "2025-11-06": 414,
