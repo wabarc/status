@@ -82,7 +82,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/initium.eu.org.ico",
     "slug": "wayback-archiver-mirror",
     "status": "up",
-    "uptime": "91.20%",
+    "uptime": "91.21%",
     "uptimeDay": "87.29%",
     "uptimeWeek": "98.18%",
     "uptimeMonth": "98.70%",
@@ -201,16 +201,16 @@
     "url": "https://repo.wabarc.eu.org/",
     "icon": "https://icons.duckduckgo.com/ip3/repo.wabarc.eu.org.ico",
     "slug": "packages-repository",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "54.84%",
-    "uptimeWeek": "67.33%",
-    "uptimeMonth": "90.42%",
+    "uptimeDay": "59.03%",
+    "uptimeWeek": "67.34%",
+    "uptimeMonth": "90.45%",
     "uptimeYear": "99.20%",
-    "time": 3571,
-    "timeDay": 3211,
-    "timeWeek": 3576,
-    "timeMonth": 3487,
+    "time": 3563,
+    "timeDay": 3386,
+    "timeWeek": 3609,
+    "timeMonth": 3486,
     "timeYear": 3601,
     "dailyMinutesDown": {
       "2025-11-19": 205,
@@ -223,7 +223,7 @@
       "2025-11-12": 491,
       "2025-11-11": 169,
       "2025-11-10": 459,
-      "2025-11-09": 86
+      "2025-11-09": 70
     }
   }
 ]
