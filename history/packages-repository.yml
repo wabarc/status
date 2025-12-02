@@ -1,7 +1,7 @@
 url: https://repo.wabarc.eu.org/
-status: up
-code: 200
-responseTime: 724
-lastUpdated: 2025-12-02T04:40:25.120Z
+status: down
+code: 429
+responseTime: 269
+lastUpdated: 2025-12-02T05:25:46.340Z
 startTime: 2022-08-28T14:30:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>
