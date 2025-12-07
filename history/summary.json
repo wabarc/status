@@ -11,9 +11,9 @@
     "uptimeMonth": "98.67%",
     "uptimeYear": "95.48%",
     "time": 1085,
-    "timeDay": 537,
-    "timeWeek": 2278,
-    "timeMonth": 888,
+    "timeDay": 507,
+    "timeWeek": 2288,
+    "timeMonth": 893,
     "timeYear": 1039,
     "dailyMinutesDown": {
       "2025-12-03": 24,
@@ -85,9 +85,9 @@
     "uptimeMonth": "98.70%",
     "uptimeYear": "95.43%",
     "time": 784,
-    "timeDay": 465,
-    "timeWeek": 505,
-    "timeMonth": 454,
+    "timeDay": 555,
+    "timeWeek": 482,
+    "timeMonth": 451,
     "timeYear": 838,
     "dailyMinutesDown": {
       "2025-12-03": 23,
@@ -159,10 +159,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.01%",
-    "time": 530,
-    "timeDay": 500,
-    "timeWeek": 382,
-    "timeMonth": 480,
+    "time": 529,
+    "timeDay": 398,
+    "timeWeek": 365,
+    "timeMonth": 333,
     "timeYear": 530,
     "dailyMinutesDown": {
       "2025-01-26": 379,
@@ -184,10 +184,10 @@
     "uptimeMonth": "99.58%",
     "uptimeYear": "99.97%",
     "time": 492,
-    "timeDay": 544,
-    "timeWeek": 455,
-    "timeMonth": 404,
-    "timeYear": 524,
+    "timeDay": 462,
+    "timeWeek": 460,
+    "timeMonth": 402,
+    "timeYear": 523,
     "dailyMinutesDown": {
       "2025-11-18": 183
     }
@@ -199,17 +199,18 @@
     "slug": "packages-repository",
     "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "81.16%",
-    "uptimeWeek": "78.42%",
-    "uptimeMonth": "89.06%",
-    "uptimeYear": "99.09%",
+    "uptimeDay": "69.25%",
+    "uptimeWeek": "78.19%",
+    "uptimeMonth": "88.90%",
+    "uptimeYear": "99.08%",
     "time": 3443,
-    "timeDay": 1636,
-    "timeWeek": 2701,
-    "timeMonth": 3130,
+    "timeDay": 582,
+    "timeWeek": 2726,
+    "timeMonth": 3141,
     "timeYear": 3439,
     "dailyMinutesDown": {
-      "2025-12-06": 272,
+      "2025-12-07": 126,
+      "2025-12-06": 317,
       "2025-12-05": 53,
       "2025-12-04": 141,
       "2025-12-03": 277,
@@ -220,7 +221,7 @@
       "2025-11-28": 743,
       "2025-11-27": 739,
       "2025-11-26": 447,
-      "2025-11-25": 332
+      "2025-11-25": 229
     }
   }
 ]
