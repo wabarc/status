@@ -11,9 +11,9 @@
     "uptimeMonth": "98.60%",
     "uptimeYear": "95.88%",
     "time": 1074,
-    "timeDay": 2393,
-    "timeWeek": 1219,
-    "timeMonth": 1080,
+    "timeDay": 384,
+    "timeWeek": 1174,
+    "timeMonth": 1083,
     "timeYear": 1003,
     "dailyMinutesDown": {
       "2025-12-14": 26,
@@ -85,9 +85,9 @@
     "uptimeMonth": "98.63%",
     "uptimeYear": "95.83%",
     "time": 787,
-    "timeDay": 300,
-    "timeWeek": 494,
-    "timeMonth": 495,
+    "timeDay": 292,
+    "timeWeek": 447,
+    "timeMonth": 492,
     "timeYear": 842,
     "dailyMinutesDown": {
       "2025-12-14": 25,
@@ -159,10 +159,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.01%",
-    "time": 526,
-    "timeDay": 694,
-    "timeWeek": 538,
-    "timeMonth": 387,
+    "time": 525,
+    "timeDay": 480,
+    "timeWeek": 522,
+    "timeMonth": 394,
     "timeYear": 535,
     "dailyMinutesDown": {
       "2025-01-26": 379,
@@ -184,9 +184,9 @@
     "uptimeMonth": "99.58%",
     "uptimeYear": "99.97%",
     "time": 503,
-    "timeDay": 5075,
-    "timeWeek": 1094,
-    "timeMonth": 572,
+    "timeDay": 189,
+    "timeWeek": 1051,
+    "timeMonth": 565,
     "timeYear": 523,
     "dailyMinutesDown": {
       "2025-11-18": 183
@@ -197,16 +197,16 @@
     "url": "https://repo.wabarc.eu.org/",
     "icon": "https://icons.duckduckgo.com/ip3/repo.wabarc.eu.org.ico",
     "slug": "packages-repository",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "78.41%",
-    "uptimeWeek": "79.71%",
-    "uptimeMonth": "89.30%",
-    "uptimeYear": "99.11%",
-    "time": 3321,
-    "timeDay": 1604,
+    "uptimeDay": "78.39%",
+    "uptimeWeek": "79.89%",
+    "uptimeMonth": "89.43%",
+    "uptimeYear": "99.12%",
+    "time": 3320,
+    "timeDay": 1603,
     "timeWeek": 1180,
-    "timeMonth": 2504,
+    "timeMonth": 2488,
     "timeYear": 3279,
     "dailyMinutesDown": {
       "2025-12-14": 311,
@@ -222,7 +222,7 @@
       "2025-12-04": 141,
       "2025-12-03": 277,
       "2025-12-02": 606,
-      "2025-12-01": 233
+      "2025-12-01": 179
     }
   }
 ]
