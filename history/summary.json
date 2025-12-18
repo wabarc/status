@@ -79,7 +79,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/initium.eu.org.ico",
     "slug": "wayback-archiver-mirror",
     "status": "up",
-    "uptime": "91.65%",
+    "uptime": "91.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "98.63%",
@@ -199,17 +199,17 @@
     "slug": "packages-repository",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "90.63%",
-    "uptimeWeek": "82.32%",
-    "uptimeMonth": "89.96%",
+    "uptimeDay": "91.00%",
+    "uptimeWeek": "82.37%",
+    "uptimeMonth": "89.92%",
     "uptimeYear": "99.16%",
     "time": 3281,
     "timeDay": 649,
     "timeWeek": 1435,
-    "timeMonth": 2383,
+    "timeMonth": 2388,
     "timeYear": 3237,
     "dailyMinutesDown": {
-      "2025-12-17": 135,
+      "2025-12-17": 130,
       "2025-12-16": 446,
       "2025-12-15": 172,
       "2025-12-14": 311,
@@ -223,7 +223,7 @@
       "2025-12-06": 317,
       "2025-12-05": 53,
       "2025-12-04": 141,
-      "2025-12-03": 75
+      "2025-12-03": 98
     }
   }
 ]
