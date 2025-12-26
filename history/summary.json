@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/wabarc.eu.org.ico",
     "slug": "wayback-archiver",
     "status": "down",
-    "uptime": "91.33%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "98.62%",
-    "uptimeMonth": "98.72%",
-    "uptimeYear": "95.89%",
+    "uptime": "91.32%",
+    "uptimeDay": "90.06%",
+    "uptimeWeek": "97.22%",
+    "uptimeMonth": "98.40%",
+    "uptimeYear": "95.86%",
     "time": 1068,
     "timeDay": 577,
     "timeWeek": 429,
     "timeMonth": 1124,
     "timeYear": 995,
     "dailyMinutesDown": {
-      "2025-12-25": 2,
+      "2025-12-26": 120,
+      "2025-12-25": 23,
       "2025-12-23": 138,
       "2025-12-14": 26,
       "2025-12-07": 51,
@@ -70,8 +71,7 @@
       "2025-01-14": 326,
       "2025-01-09": 813,
       "2025-01-04": 21,
-      "2024-12-31": 20,
-      "2024-12-26": 704
+      "2024-12-31": 20
     }
   },
   {
@@ -80,18 +80,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/initium.eu.org.ico",
     "slug": "wayback-archiver-mirror",
     "status": "down",
-    "uptime": "91.77%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "98.66%",
-    "uptimeMonth": "98.78%",
-    "uptimeYear": "95.84%",
+    "uptime": "91.75%",
+    "uptimeDay": "90.17%",
+    "uptimeWeek": "97.26%",
+    "uptimeMonth": "98.46%",
+    "uptimeYear": "95.81%",
     "time": 805,
     "timeDay": 564,
     "timeWeek": 970,
     "timeMonth": 732,
     "timeYear": 867,
     "dailyMinutesDown": {
-      "2025-12-25": 0,
+      "2025-12-26": 120,
+      "2025-12-25": 21,
       "2025-12-23": 135,
       "2025-12-14": 25,
       "2025-12-07": 50,
@@ -146,8 +147,7 @@
       "2025-01-14": 325,
       "2025-01-09": 813,
       "2025-01-04": 21,
-      "2024-12-31": 20,
-      "2024-12-26": 704
+      "2024-12-31": 20
     }
   },
   {
@@ -206,9 +206,9 @@
     "uptimeMonth": "91.35%",
     "uptimeYear": "99.28%",
     "time": 3148,
-    "timeDay": 537,
+    "timeDay": 554,
     "timeWeek": 743,
-    "timeMonth": 1776,
+    "timeMonth": 1777,
     "timeYear": 3099,
     "dailyMinutesDown": {
       "2025-12-25": 115,
