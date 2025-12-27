@@ -14,7 +14,7 @@
     "timeDay": 483,
     "timeWeek": 451,
     "timeMonth": 1112,
-    "timeYear": 997,
+    "timeYear": 999,
     "dailyMinutesDown": {
       "2025-12-26": 140,
       "2025-12-25": 23,
@@ -89,7 +89,7 @@
     "timeDay": 598,
     "timeWeek": 937,
     "timeMonth": 728,
-    "timeYear": 857,
+    "timeYear": 860,
     "dailyMinutesDown": {
       "2025-12-26": 140,
       "2025-12-25": 21,
@@ -199,17 +199,17 @@
     "url": "https://repo.wabarc.eu.org/",
     "icon": "https://icons.duckduckgo.com/ip3/repo.wabarc.eu.org.ico",
     "slug": "packages-repository",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "89.43%",
+    "uptimeDay": "89.41%",
     "uptimeWeek": "80.50%",
-    "uptimeMonth": "91.43%",
-    "uptimeYear": "99.29%",
+    "uptimeMonth": "91.65%",
+    "uptimeYear": "99.30%",
     "time": 3122,
-    "timeDay": 538,
-    "timeWeek": 755,
-    "timeMonth": 1601,
-    "timeYear": 3077,
+    "timeDay": 522,
+    "timeWeek": 751,
+    "timeMonth": 1599,
+    "timeYear": 3076,
     "dailyMinutesDown": {
       "2025-12-27": 136,
       "2025-12-26": 296,
@@ -224,7 +224,7 @@
       "2025-12-17": 130,
       "2025-12-16": 446,
       "2025-12-15": 172,
-      "2025-12-14": 311
+      "2025-12-14": 211
     }
   }
 ]
