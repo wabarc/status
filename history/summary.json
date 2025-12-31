@@ -11,10 +11,10 @@
     "uptimeMonth": "98.99%",
     "uptimeYear": "95.99%",
     "time": 1060,
-    "timeDay": 409,
-    "timeWeek": 447,
-    "timeMonth": 1139,
-    "timeYear": 988,
+    "timeDay": 740,
+    "timeWeek": 503,
+    "timeMonth": 1129,
+    "timeYear": 979,
     "dailyMinutesDown": {
       "2025-12-26": 140,
       "2025-12-25": 23,
@@ -70,8 +70,7 @@
       "2025-01-15": 931,
       "2025-01-14": 326,
       "2025-01-09": 813,
-      "2025-01-04": 21,
-      "2024-12-31": 20
+      "2025-01-04": 21
     }
   },
   {
@@ -80,15 +79,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/initium.eu.org.ico",
     "slug": "wayback-archiver-mirror",
     "status": "up",
-    "uptime": "91.82%",
+    "uptime": "91.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.40%",
     "uptimeMonth": "99.04%",
     "uptimeYear": "95.94%",
     "time": 804,
-    "timeDay": 652,
-    "timeWeek": 545,
-    "timeMonth": 733,
+    "timeDay": 464,
+    "timeWeek": 506,
+    "timeMonth": 726,
     "timeYear": 861,
     "dailyMinutesDown": {
       "2025-12-26": 140,
@@ -146,8 +145,7 @@
       "2025-01-15": 931,
       "2025-01-14": 325,
       "2025-01-09": 813,
-      "2025-01-04": 21,
-      "2024-12-31": 20
+      "2025-01-04": 21
     }
   },
   {
@@ -162,10 +160,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.01%",
     "time": 523,
-    "timeDay": 302,
-    "timeWeek": 398,
-    "timeMonth": 418,
-    "timeYear": 538,
+    "timeDay": 172,
+    "timeWeek": 368,
+    "timeMonth": 410,
+    "timeYear": 537,
     "dailyMinutesDown": {
       "2025-01-26": 379,
       "2025-01-25": 1440,
@@ -185,11 +183,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 512,
-    "timeDay": 5309,
-    "timeWeek": 1073,
-    "timeMonth": 716,
-    "timeYear": 539,
+    "time": 513,
+    "timeDay": 304,
+    "timeWeek": 1085,
+    "timeMonth": 703,
+    "timeYear": 540,
     "dailyMinutesDown": {
       "2025-11-18": 183
     }
@@ -201,15 +199,15 @@
     "slug": "packages-repository",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "92.44%",
-    "uptimeWeek": "88.29%",
+    "uptimeDay": "95.31%",
+    "uptimeWeek": "89.05%",
     "uptimeMonth": "91.64%",
     "uptimeYear": "99.30%",
     "time": 3071,
-    "timeDay": 504,
-    "timeWeek": 576,
-    "timeMonth": 1388,
-    "timeYear": 3047,
+    "timeDay": 527,
+    "timeWeek": 570,
+    "timeMonth": 1404,
+    "timeYear": 3050,
     "dailyMinutesDown": {
       "2025-12-30": 67,
       "2025-12-29": 79,
