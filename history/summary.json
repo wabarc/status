@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/wabarc.eu.org.ico",
     "slug": "wayback-archiver",
     "status": "up",
-    "uptime": "91.42%",
+    "uptime": "91.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.32%",
-    "uptimeYear": "96.21%",
+    "uptimeYear": "96.24%",
     "time": 1058,
     "timeDay": 4474,
     "timeWeek": 1047,
@@ -66,8 +66,7 @@
       "2025-02-10": 1038,
       "2025-01-22": 31,
       "2025-01-21": 27,
-      "2025-01-16": 24,
-      "2025-01-15": 931
+      "2025-01-16": 24
     }
   },
   {
@@ -80,7 +79,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.32%",
-    "uptimeYear": "96.16%",
+    "uptimeYear": "96.19%",
     "time": 814,
     "timeDay": 378,
     "timeWeek": 402,
@@ -138,8 +137,7 @@
       "2025-01-23": 748,
       "2025-01-22": 483,
       "2025-01-21": 27,
-      "2025-01-16": 24,
-      "2025-01-15": 931
+      "2025-01-16": 24
     }
   },
   {
@@ -199,8 +197,8 @@
     "uptimeYear": "99.09%",
     "time": 2974,
     "timeDay": 548,
-    "timeWeek": 1259,
-    "timeMonth": 941,
+    "timeWeek": 1287,
+    "timeMonth": 944,
     "timeYear": 2955,
     "dailyMinutesDown": {
       "2026-01-14": 184,
