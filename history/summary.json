@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/wabarc.eu.org.ico",
     "slug": "wayback-archiver",
     "status": "up",
-    "uptime": "91.57%",
+    "uptime": "91.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.71%",
@@ -74,7 +74,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/initium.eu.org.ico",
     "slug": "wayback-archiver-mirror",
     "status": "up",
-    "uptime": "92.46%",
+    "uptime": "92.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
@@ -179,17 +179,17 @@
     "url": "https://repo.wabarc.eu.org/",
     "icon": "https://icons.duckduckgo.com/ip3/repo.wabarc.eu.org.ico",
     "slug": "packages-repository",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "93.70%",
-    "uptimeWeek": "92.67%",
-    "uptimeMonth": "86.69%",
+    "uptimeDay": "93.68%",
+    "uptimeWeek": "93.18%",
+    "uptimeMonth": "86.81%",
     "uptimeYear": "98.47%",
     "time": 2887,
-    "timeDay": 858,
-    "timeWeek": 2297,
-    "timeMonth": 1687,
-    "timeYear": 2872,
+    "timeDay": 677,
+    "timeWeek": 1721,
+    "timeMonth": 1694,
+    "timeYear": 2871,
     "dailyMinutesDown": {
       "2026-02-12": 91,
       "2026-02-09": 44,
@@ -229,7 +229,7 @@
       "2026-01-05": 20,
       "2026-01-04": 59,
       "2026-01-03": 115,
-      "2026-01-02": 224
+      "2026-01-02": 190
     }
   }
 ]
