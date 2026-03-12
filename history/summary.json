@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
-    "uptimeYear": "98.23%",
+    "uptimeYear": "98.26%",
     "time": 918,
     "timeDay": 506,
     "timeWeek": 475,
@@ -55,8 +55,7 @@
       "2025-03-21": 1440,
       "2025-03-20": 1440,
       "2025-03-19": 1440,
-      "2025-03-18": 150,
-      "2025-03-12": 861
+      "2025-03-18": 150
     }
   },
   {
@@ -69,7 +68,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
-    "uptimeYear": "98.42%",
+    "uptimeYear": "98.45%",
     "time": 812,
     "timeDay": 719,
     "timeWeek": 503,
@@ -113,8 +112,7 @@
       "2025-03-21": 1440,
       "2025-03-20": 1440,
       "2025-03-19": 1440,
-      "2025-03-18": 150,
-      "2025-03-12": 861
+      "2025-03-18": 150
     }
   },
   {
@@ -162,18 +160,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/repo.wabarc.eu.org.ico",
     "slug": "packages-repository",
     "status": "down",
-    "uptime": "99.40%",
-    "uptimeDay": "60.23%",
-    "uptimeWeek": "89.56%",
-    "uptimeMonth": "87.08%",
-    "uptimeYear": "97.89%",
+    "uptime": "99.39%",
+    "uptimeDay": "49.33%",
+    "uptimeWeek": "88.01%",
+    "uptimeMonth": "86.73%",
+    "uptimeYear": "97.86%",
     "time": 2859,
     "timeDay": 10447,
     "timeWeek": 2312,
     "timeMonth": 1732,
     "timeYear": 2877,
     "dailyMinutesDown": {
-      "2026-03-11": 572,
+      "2026-03-12": 154,
+      "2026-03-11": 575,
       "2026-03-10": 112,
       "2026-03-09": 121,
       "2026-03-08": 71,
