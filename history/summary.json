@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
-    "uptimeYear": "98.69%",
+    "uptimeYear": "98.72%",
     "time": 908,
     "timeDay": 412,
     "timeWeek": 460,
@@ -52,8 +52,7 @@
       "2025-04-08": 20,
       "2025-03-23": 234,
       "2025-03-22": 502,
-      "2025-03-21": 1440,
-      "2025-03-20": 1440
+      "2025-03-21": 1440
     }
   },
   {
@@ -62,11 +61,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/initium.eu.org.ico",
     "slug": "wayback-archiver-mirror",
     "status": "up",
-    "uptime": "92.91%",
+    "uptime": "92.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
-    "uptimeYear": "98.89%",
+    "uptimeYear": "98.92%",
     "time": 812,
     "timeDay": 756,
     "timeWeek": 411,
@@ -107,8 +106,7 @@
       "2025-03-30": 19,
       "2025-03-23": 223,
       "2025-03-22": 502,
-      "2025-03-21": 1440,
-      "2025-03-20": 1440
+      "2025-03-21": 1440
     }
   },
   {
@@ -117,7 +115,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.wabarc.eu.org.ico",
     "slug": "wayback-archiver-documentation",
     "status": "up",
-    "uptime": "99.43%",
+    "uptime": "99.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -156,18 +154,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/repo.wabarc.eu.org.ico",
     "slug": "packages-repository",
     "status": "down",
-    "uptime": "99.35%",
-    "uptimeDay": "87.83%",
+    "uptime": "99.34%",
+    "uptimeDay": "77.16%",
     "uptimeWeek": "80.13%",
-    "uptimeMonth": "84.97%",
-    "uptimeYear": "97.69%",
+    "uptimeMonth": "84.62%",
+    "uptimeYear": "97.66%",
     "time": 2851,
     "timeDay": 1705,
     "timeWeek": 3176,
     "timeMonth": 2563,
     "timeYear": 2900,
     "dailyMinutesDown": {
-      "2026-03-19": 174,
+      "2026-03-20": 153,
+      "2026-03-19": 175,
       "2026-03-18": 198,
       "2026-03-17": 130,
       "2026-03-16": 263,
