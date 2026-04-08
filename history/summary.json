@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.38%",
     "time": 892,
-    "timeDay": 313,
-    "timeWeek": 438,
-    "timeMonth": 477,
+    "timeDay": 413,
+    "timeWeek": 457,
+    "timeMonth": 478,
     "timeYear": 917,
     "dailyMinutesDown": {
       "2026-02-25": 69,
@@ -48,8 +48,7 @@
       "2025-04-24": 66,
       "2025-04-22": 47,
       "2025-04-20": 410,
-      "2025-04-19": 566,
-      "2025-04-08": 20
+      "2025-04-19": 566
     }
   },
   {
@@ -64,9 +63,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.58%",
     "time": 802,
-    "timeDay": 267,
-    "timeWeek": 395,
-    "timeMonth": 422,
+    "timeDay": 366,
+    "timeWeek": 408,
+    "timeMonth": 421,
     "timeYear": 799,
     "dailyMinutesDown": {
       "2026-02-25": 67,
@@ -98,8 +97,7 @@
       "2025-06-17": 39,
       "2025-05-27": 48,
       "2025-04-24": 65,
-      "2025-04-22": 45,
-      "2025-04-08": 18
+      "2025-04-22": 45
     }
   },
   {
@@ -114,10 +112,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 499,
-    "timeDay": 267,
-    "timeWeek": 265,
-    "timeMonth": 321,
-    "timeYear": 519,
+    "timeDay": 321,
+    "timeWeek": 279,
+    "timeMonth": 318,
+    "timeYear": 518,
     "dailyMinutesDown": {}
   },
   {
@@ -131,11 +129,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 498,
-    "timeDay": 271,
-    "timeWeek": 317,
-    "timeMonth": 320,
-    "timeYear": 502,
+    "time": 499,
+    "timeDay": 609,
+    "timeWeek": 359,
+    "timeMonth": 329,
+    "timeYear": 503,
     "dailyMinutesDown": {
       "2026-01-29": 45,
       "2025-11-18": 183
@@ -148,14 +146,14 @@
     "slug": "packages-repository",
     "status": "up",
     "uptime": "99.28%",
-    "uptimeDay": "60.18%",
-    "uptimeWeek": "68.70%",
-    "uptimeMonth": "74.70%",
+    "uptimeDay": "62.37%",
+    "uptimeWeek": "69.46%",
+    "uptimeMonth": "74.74%",
     "uptimeYear": "97.42%",
     "time": 2837,
-    "timeDay": 3489,
-    "timeWeek": 1869,
-    "timeMonth": 2720,
+    "timeDay": 714,
+    "timeWeek": 1937,
+    "timeMonth": 2743,
     "timeYear": 2893,
     "dailyMinutesDown": {
       "2026-04-07": 543,
