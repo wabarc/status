@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/wabarc.eu.org.ico",
     "slug": "wayback-archiver",
     "status": "up",
-    "uptime": "91.89%",
+    "uptime": "91.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.57%",
-    "time": 885,
-    "timeDay": 386,
-    "timeWeek": 432,
-    "timeMonth": 458,
+    "time": 884,
+    "timeDay": 294,
+    "timeWeek": 408,
+    "timeMonth": 439,
     "timeYear": 894,
     "dailyMinutesDown": {
       "2026-02-25": 69,
@@ -45,8 +45,7 @@
       "2025-07-02": 64,
       "2025-06-17": 40,
       "2025-05-27": 49,
-      "2025-04-24": 66,
-      "2025-04-22": 47
+      "2025-04-24": 66
     }
   },
   {
@@ -60,11 +59,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.58%",
-    "time": 803,
-    "timeDay": 393,
-    "timeWeek": 453,
-    "timeMonth": 404,
-    "timeYear": 799,
+    "time": 802,
+    "timeDay": 292,
+    "timeWeek": 431,
+    "timeMonth": 400,
+    "timeYear": 797,
     "dailyMinutesDown": {
       "2026-02-25": 67,
       "2026-01-17": 39,
@@ -94,8 +93,7 @@
       "2025-07-02": 62,
       "2025-06-17": 39,
       "2025-05-27": 48,
-      "2025-04-24": 65,
-      "2025-04-22": 45
+      "2025-04-24": 65
     }
   },
   {
@@ -110,10 +108,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 501,
-    "timeDay": 323,
-    "timeWeek": 327,
-    "timeMonth": 318,
-    "timeYear": 509,
+    "timeDay": 242,
+    "timeWeek": 314,
+    "timeMonth": 321,
+    "timeYear": 508,
     "dailyMinutesDown": {}
   },
   {
@@ -128,10 +126,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 497,
-    "timeDay": 288,
-    "timeWeek": 314,
-    "timeMonth": 329,
-    "timeYear": 490,
+    "timeDay": 229,
+    "timeWeek": 291,
+    "timeMonth": 323,
+    "timeYear": 489,
     "dailyMinutesDown": {
       "2026-01-29": 45,
       "2025-11-18": 183
@@ -144,15 +142,15 @@
     "slug": "packages-repository",
     "status": "up",
     "uptime": "99.32%",
-    "uptimeDay": "62.28%",
-    "uptimeWeek": "76.60%",
-    "uptimeMonth": "73.35%",
+    "uptimeDay": "88.06%",
+    "uptimeWeek": "80.07%",
+    "uptimeMonth": "73.39%",
     "uptimeYear": "97.52%",
     "time": 2886,
-    "timeDay": 474,
-    "timeWeek": 2802,
-    "timeMonth": 2754,
-    "timeYear": 2931,
+    "timeDay": 520,
+    "timeWeek": 2867,
+    "timeMonth": 2711,
+    "timeYear": 2930,
     "dailyMinutesDown": {
       "2026-04-21": 369,
       "2026-04-20": 440,
