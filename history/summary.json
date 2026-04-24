@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.58%",
-    "time": 884,
-    "timeDay": 275,
-    "timeWeek": 386,
-    "timeMonth": 438,
-    "timeYear": 894,
+    "time": 885,
+    "timeDay": 662,
+    "timeWeek": 420,
+    "timeMonth": 435,
+    "timeYear": 893,
     "dailyMinutesDown": {
       "2026-02-25": 69,
       "2026-02-22": 25,
@@ -44,8 +44,7 @@
       "2025-07-06": 94,
       "2025-07-02": 64,
       "2025-06-17": 40,
-      "2025-05-27": 49,
-      "2025-04-24": 66
+      "2025-05-27": 49
     }
   },
   {
@@ -60,9 +59,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.59%",
     "time": 802,
-    "timeDay": 277,
-    "timeWeek": 433,
-    "timeMonth": 400,
+    "timeDay": 378,
+    "timeWeek": 406,
+    "timeMonth": 403,
     "timeYear": 785,
     "dailyMinutesDown": {
       "2026-02-25": 67,
@@ -92,8 +91,7 @@
       "2025-07-06": 93,
       "2025-07-02": 62,
       "2025-06-17": 39,
-      "2025-05-27": 48,
-      "2025-04-24": 65
+      "2025-05-27": 48
     }
   },
   {
@@ -107,10 +105,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 501,
-    "timeDay": 259,
-    "timeWeek": 292,
-    "timeMonth": 319,
+    "time": 502,
+    "timeDay": 684,
+    "timeWeek": 342,
+    "timeMonth": 320,
     "timeYear": 507,
     "dailyMinutesDown": {}
   },
@@ -126,10 +124,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 487,
-    "timeDay": 210,
-    "timeWeek": 288,
-    "timeMonth": 323,
-    "timeYear": 489,
+    "timeDay": 431,
+    "timeWeek": 302,
+    "timeMonth": 320,
+    "timeYear": 488,
     "dailyMinutesDown": {
       "2026-01-29": 45,
       "2025-11-18": 183
@@ -142,15 +140,15 @@
     "slug": "packages-repository",
     "status": "up",
     "uptime": "99.32%",
-    "uptimeDay": "89.20%",
-    "uptimeWeek": "84.91%",
-    "uptimeMonth": "73.51%",
+    "uptimeDay": "93.06%",
+    "uptimeWeek": "86.91%",
+    "uptimeMonth": "73.93%",
     "uptimeYear": "97.51%",
-    "time": 2858,
-    "timeDay": 4988,
-    "timeWeek": 3581,
-    "timeMonth": 2753,
-    "timeYear": 2934,
+    "time": 2893,
+    "timeDay": 1092,
+    "timeWeek": 3810,
+    "timeMonth": 2805,
+    "timeYear": 2938,
     "dailyMinutesDown": {
       "2026-04-23": 100,
       "2026-04-22": 56,
