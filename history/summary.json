@@ -13,7 +13,7 @@
     "time": 871,
     "timeDay": 1286,
     "timeWeek": 591,
-    "timeMonth": 449,
+    "timeMonth": 455,
     "timeYear": 848,
     "dailyMinutesDown": {
       "2025-09-21": 20,
@@ -56,7 +56,7 @@
     "time": 800,
     "timeDay": 365,
     "timeWeek": 410,
-    "timeMonth": 408,
+    "timeMonth": 412,
     "timeYear": 784,
     "dailyMinutesDown": {
       "2025-09-22": 50,
@@ -98,7 +98,7 @@
     "time": 472,
     "timeDay": 342,
     "timeWeek": 321,
-    "timeMonth": 353,
+    "timeMonth": 357,
     "timeYear": 390,
     "dailyMinutesDown": {}
   },
@@ -116,7 +116,7 @@
     "time": 466,
     "timeDay": 435,
     "timeWeek": 344,
-    "timeMonth": 329,
+    "timeMonth": 328,
     "timeYear": 399,
     "dailyMinutesDown": {
       "2025-11-18": 183,
@@ -130,17 +130,17 @@
     "slug": "packages-repository",
     "status": "up",
     "uptime": "99.40%",
-    "uptimeDay": "79.39%",
-    "uptimeWeek": "85.82%",
-    "uptimeMonth": "85.20%",
-    "uptimeYear": "97.62%",
+    "uptimeDay": "84.31%",
+    "uptimeWeek": "86.58%",
+    "uptimeMonth": "85.41%",
+    "uptimeYear": "97.61%",
     "time": 2777,
-    "timeDay": 432,
-    "timeWeek": 424,
-    "timeMonth": 608,
+    "timeDay": 442,
+    "timeWeek": 423,
+    "timeMonth": 602,
     "timeYear": 2761,
     "dailyMinutesDown": {
-      "2026-05-22": 69,
+      "2026-05-22": 146,
       "2026-05-23": 304,
       "2026-05-24": 129,
       "2026-05-28": 271,
@@ -187,7 +187,7 @@
       "2026-08-21": 129,
       "2026-08-22": 126,
       "2026-08-23": 151,
-      "2026-08-24": 298
+      "2026-08-24": 288
     }
   }
 ]
