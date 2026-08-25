@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.64%",
-    "time": 871,
-    "timeDay": 1286,
-    "timeWeek": 591,
-    "timeMonth": 455,
-    "timeYear": 848,
+    "time": 870,
+    "timeDay": 323,
+    "timeWeek": 599,
+    "timeMonth": 451,
+    "timeYear": 847,
     "dailyMinutesDown": {
       "2025-09-21": 20,
       "2025-09-22": 20,
@@ -54,9 +54,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.65%",
     "time": 800,
-    "timeDay": 365,
-    "timeWeek": 410,
-    "timeMonth": 412,
+    "timeDay": 545,
+    "timeWeek": 449,
+    "timeMonth": 416,
     "timeYear": 784,
     "dailyMinutesDown": {
       "2025-09-22": 50,
@@ -96,10 +96,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 472,
-    "timeDay": 342,
-    "timeWeek": 321,
-    "timeMonth": 357,
-    "timeYear": 390,
+    "timeDay": 241,
+    "timeWeek": 326,
+    "timeMonth": 353,
+    "timeYear": 389,
     "dailyMinutesDown": {}
   },
   {
@@ -114,10 +114,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 466,
-    "timeDay": 435,
-    "timeWeek": 344,
-    "timeMonth": 328,
-    "timeYear": 399,
+    "timeDay": 420,
+    "timeWeek": 376,
+    "timeMonth": 331,
+    "timeYear": 398,
     "dailyMinutesDown": {
       "2025-11-18": 183,
       "2026-01-29": 45
@@ -128,16 +128,16 @@
     "url": "https://repo.wabarc.eu.org/",
     "icon": "https://icons.duckduckgo.com/ip3/repo.wabarc.eu.org.ico",
     "slug": "packages-repository",
-    "status": "down",
+    "status": "up",
     "uptime": "99.42%",
-    "uptimeDay": "86.54%",
-    "uptimeWeek": "86.75%",
-    "uptimeMonth": "86.07%",
+    "uptimeDay": "85.13%",
+    "uptimeWeek": "86.55%",
+    "uptimeMonth": "86.02%",
     "uptimeYear": "97.68%",
     "time": 2777,
-    "timeDay": 434,
-    "timeWeek": 412,
-    "timeMonth": 562,
+    "timeDay": 430,
+    "timeWeek": 423,
+    "timeMonth": 563,
     "timeYear": 2756,
     "dailyMinutesDown": {
       "2026-05-28": 271,
@@ -185,7 +185,7 @@
       "2026-08-22": 126,
       "2026-08-23": 151,
       "2026-08-24": 288,
-      "2026-08-25": 193
+      "2026-08-25": 214
     }
   }
 ]
