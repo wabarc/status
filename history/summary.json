@@ -12,9 +12,9 @@
     "uptimeYear": "99.64%",
     "time": 861,
     "timeDay": 398,
-    "timeWeek": 557,
-    "timeMonth": 455,
-    "timeYear": 846,
+    "timeWeek": 564,
+    "timeMonth": 458,
+    "timeYear": 835,
     "dailyMinutesDown": {
       "2025-09-21": 20,
       "2025-09-22": 20,
@@ -55,9 +55,9 @@
     "uptimeYear": "99.65%",
     "time": 800,
     "timeDay": 366,
-    "timeWeek": 451,
-    "timeMonth": 412,
-    "timeYear": 784,
+    "timeWeek": 433,
+    "timeMonth": 414,
+    "timeYear": 785,
     "dailyMinutesDown": {
       "2025-09-22": 50,
       "2025-09-26": 18,
@@ -97,8 +97,8 @@
     "uptimeYear": "100.00%",
     "time": 473,
     "timeDay": 649,
-    "timeWeek": 360,
-    "timeMonth": 370,
+    "timeWeek": 382,
+    "timeMonth": 362,
     "timeYear": 389,
     "dailyMinutesDown": {}
   },
@@ -115,9 +115,9 @@
     "uptimeYear": "99.96%",
     "time": 467,
     "timeDay": 911,
-    "timeWeek": 459,
+    "timeWeek": 500,
     "timeMonth": 348,
-    "timeYear": 397,
+    "timeYear": 398,
     "dailyMinutesDown": {
       "2025-11-18": 183,
       "2026-01-29": 45
@@ -128,19 +128,18 @@
     "url": "https://repo.wabarc.eu.org/",
     "icon": "https://icons.duckduckgo.com/ip3/repo.wabarc.eu.org.ico",
     "slug": "packages-repository",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "97.46%",
-    "uptimeWeek": "87.34%",
-    "uptimeMonth": "87.79%",
-    "uptimeYear": "97.72%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "88.49%",
+    "uptimeMonth": "87.96%",
+    "uptimeYear": "97.73%",
     "time": 2776,
-    "timeDay": 376,
-    "timeWeek": 394,
-    "timeMonth": 457,
-    "timeYear": 2745,
+    "timeDay": 383,
+    "timeWeek": 404,
+    "timeMonth": 452,
+    "timeYear": 2739,
     "dailyMinutesDown": {
-      "2026-05-31": 62,
       "2026-06-02": 223,
       "2026-06-03": 306,
       "2026-06-04": 96,
@@ -184,7 +183,8 @@
       "2026-08-23": 151,
       "2026-08-24": 288,
       "2026-08-25": 214,
-      "2026-08-26": 253
+      "2026-08-26": 253,
+      "2026-08-28": 0
     }
   }
 ]
