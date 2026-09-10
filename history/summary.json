@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.64%",
     "time": 858,
-    "timeDay": 444,
-    "timeWeek": 330,
+    "timeDay": 363,
+    "timeWeek": 328,
     "timeMonth": 446,
     "timeYear": 831,
     "dailyMinutesDown": {
@@ -54,8 +54,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.65%",
     "time": 799,
-    "timeDay": 469,
-    "timeWeek": 511,
+    "timeDay": 357,
+    "timeWeek": 503,
     "timeMonth": 461,
     "timeYear": 785,
     "dailyMinutesDown": {
@@ -96,8 +96,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 453,
-    "timeDay": 303,
-    "timeWeek": 250,
+    "timeDay": 317,
+    "timeWeek": 248,
     "timeMonth": 320,
     "timeYear": 387,
     "dailyMinutesDown": {}
@@ -114,8 +114,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 437,
-    "timeDay": 352,
-    "timeWeek": 423,
+    "timeDay": 318,
+    "timeWeek": 387,
     "timeMonth": 368,
     "timeYear": 394,
     "dailyMinutesDown": {
@@ -128,16 +128,16 @@
     "url": "https://repo.wabarc.eu.org/",
     "icon": "https://icons.duckduckgo.com/ip3/repo.wabarc.eu.org.ico",
     "slug": "packages-repository",
-    "status": "down",
+    "status": "up",
     "uptime": "99.46%",
-    "uptimeDay": "83.61%",
-    "uptimeWeek": "86.48%",
-    "uptimeMonth": "84.99%",
-    "uptimeYear": "97.82%",
+    "uptimeDay": "82.12%",
+    "uptimeWeek": "86.34%",
+    "uptimeMonth": "84.94%",
+    "uptimeYear": "97.81%",
     "time": 2748,
-    "timeDay": 326,
-    "timeWeek": 430,
-    "timeMonth": 430,
+    "timeDay": 370,
+    "timeWeek": 437,
+    "timeMonth": 431,
     "timeYear": 2688,
     "dailyMinutesDown": {
       "2026-07-14": 65,
@@ -181,7 +181,7 @@
       "2026-09-08": 224,
       "2026-09-07": 71,
       "2026-09-09": 236,
-      "2026-09-10": 0
+      "2026-09-10": 22
     }
   }
 ]
