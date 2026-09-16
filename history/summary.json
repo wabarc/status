@@ -13,8 +13,8 @@
     "time": 855,
     "timeDay": 235,
     "timeWeek": 459,
-    "timeMonth": 457,
-    "timeYear": 828,
+    "timeMonth": 462,
+    "timeYear": 830,
     "dailyMinutesDown": {
       "2025-09-21": 20,
       "2025-09-22": 20,
@@ -48,7 +48,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/initium.eu.org.ico",
     "slug": "wayback-archiver-mirror",
     "status": "up",
-    "uptime": "94.57%",
+    "uptime": "94.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -56,8 +56,8 @@
     "time": 790,
     "timeDay": 569,
     "timeWeek": 559,
-    "timeMonth": 483,
-    "timeYear": 789,
+    "timeMonth": 488,
+    "timeYear": 790,
     "dailyMinutesDown": {
       "2025-09-22": 50,
       "2025-09-26": 18,
@@ -98,7 +98,7 @@
     "time": 455,
     "timeDay": 180,
     "timeWeek": 370,
-    "timeMonth": 329,
+    "timeMonth": 332,
     "timeYear": 387,
     "dailyMinutesDown": {}
   },
@@ -116,8 +116,8 @@
     "time": 427,
     "timeDay": 540,
     "timeWeek": 328,
-    "timeMonth": 369,
-    "timeYear": 393,
+    "timeMonth": 372,
+    "timeYear": 394,
     "dailyMinutesDown": {
       "2025-11-18": 183,
       "2026-01-29": 45
@@ -128,19 +128,18 @@
     "url": "https://repo.wabarc.eu.org/",
     "icon": "https://icons.duckduckgo.com/ip3/repo.wabarc.eu.org.ico",
     "slug": "packages-repository",
-    "status": "up",
-    "uptime": "99.37%",
-    "uptimeDay": "60.76%",
-    "uptimeWeek": "63.87%",
-    "uptimeMonth": "78.10%",
-    "uptimeYear": "97.46%",
-    "time": 2741,
-    "timeDay": 449,
-    "timeWeek": 487,
-    "timeMonth": 441,
-    "timeYear": 2656,
+    "status": "down",
+    "uptime": "99.40%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "66.20%",
+    "uptimeMonth": "78.32%",
+    "uptimeYear": "97.55%",
+    "time": 2735,
+    "timeDay": 344,
+    "timeWeek": 489,
+    "timeMonth": 438,
+    "timeYear": 2660,
     "dailyMinutesDown": {
-      "2026-07-26": 507,
       "2026-07-27": 78,
       "2026-07-28": 267,
       "2026-07-29": 718,
@@ -181,7 +180,8 @@
       "2026-09-12": 877,
       "2026-09-13": 386,
       "2026-09-14": 926,
-      "2026-09-15": 746
+      "2026-09-15": 746,
+      "2026-09-16": 0
     }
   }
 ]
