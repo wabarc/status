@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/wabarc.eu.org.ico",
     "slug": "wayback-archiver",
     "status": "up",
-    "uptime": "92.51%",
+    "uptime": "92.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -13,8 +13,8 @@
     "time": 853,
     "timeDay": 512,
     "timeWeek": 470,
-    "timeMonth": 461,
-    "timeYear": 828,
+    "timeMonth": 468,
+    "timeYear": 829,
     "dailyMinutesDown": {
       "2025-09-21": 20,
       "2025-09-22": 20,
@@ -56,8 +56,8 @@
     "time": 789,
     "timeDay": 574,
     "timeWeek": 475,
-    "timeMonth": 489,
-    "timeYear": 788,
+    "timeMonth": 497,
+    "timeYear": 789,
     "dailyMinutesDown": {
       "2025-09-22": 50,
       "2025-09-26": 18,
@@ -98,8 +98,8 @@
     "time": 454,
     "timeDay": 540,
     "timeWeek": 292,
-    "timeMonth": 332,
-    "timeYear": 387,
+    "timeMonth": 336,
+    "timeYear": 388,
     "dailyMinutesDown": {}
   },
   {
@@ -116,7 +116,7 @@
     "time": 427,
     "timeDay": 631,
     "timeWeek": 403,
-    "timeMonth": 387,
+    "timeMonth": 393,
     "timeYear": 395,
     "dailyMinutesDown": {
       "2025-11-18": 183,
@@ -128,19 +128,18 @@
     "url": "https://repo.wabarc.eu.org/",
     "icon": "https://icons.duckduckgo.com/ip3/repo.wabarc.eu.org.ico",
     "slug": "packages-repository",
-    "status": "up",
+    "status": "down",
     "uptime": "99.39%",
-    "uptimeDay": "71.16%",
-    "uptimeWeek": "62.57%",
-    "uptimeMonth": "77.65%",
-    "uptimeYear": "97.51%",
+    "uptimeDay": "98.60%",
+    "uptimeWeek": "65.99%",
+    "uptimeMonth": "78.18%",
+    "uptimeYear": "97.53%",
     "time": 2728,
-    "timeDay": 412,
-    "timeWeek": 501,
-    "timeMonth": 432,
-    "timeYear": 2659,
+    "timeDay": 498,
+    "timeWeek": 439,
+    "timeMonth": 434,
+    "timeYear": 2661,
     "dailyMinutesDown": {
-      "2026-07-28": 82,
       "2026-07-29": 718,
       "2026-07-30": 704,
       "2026-07-31": 659,
@@ -182,7 +181,8 @@
       "2026-09-15": 746,
       "2026-09-17": 420,
       "2026-09-16": 13,
-      "2026-09-18": 58
+      "2026-09-18": 58,
+      "2026-09-19": 0
     }
   }
 ]
