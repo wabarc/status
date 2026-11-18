@@ -12,11 +12,10 @@
     "uptimeYear": "95.00%",
     "time": 901,
     "timeDay": 581,
-    "timeWeek": 416,
-    "timeMonth": 2052,
-    "timeYear": 779,
+    "timeWeek": 405,
+    "timeMonth": 2102,
+    "timeYear": 780,
     "dailyMinutesDown": {
-      "2025-11-18": 172,
       "2025-11-24": 19,
       "2025-11-29": 276,
       "2025-12-02": 43,
@@ -67,11 +66,10 @@
     "uptimeYear": "96.05%",
     "time": 1002,
     "timeDay": 566,
-    "timeWeek": 362,
-    "timeMonth": 5162,
-    "timeYear": 1019,
+    "timeWeek": 371,
+    "timeMonth": 5317,
+    "timeYear": 1021,
     "dailyMinutesDown": {
-      "2025-11-18": 183,
       "2025-11-24": 18,
       "2025-11-29": 275,
       "2025-12-02": 26,
@@ -116,8 +114,8 @@
     "uptimeYear": "100.00%",
     "time": 388,
     "timeDay": 309,
-    "timeWeek": 632,
-    "timeMonth": 409,
+    "timeWeek": 331,
+    "timeMonth": 415,
     "timeYear": 383,
     "dailyMinutesDown": {}
   },
@@ -134,11 +132,10 @@
     "uptimeYear": "99.96%",
     "time": 413,
     "timeDay": 343,
-    "timeWeek": 381,
-    "timeMonth": 379,
+    "timeWeek": 406,
+    "timeMonth": 372,
     "timeYear": 408,
     "dailyMinutesDown": {
-      "2025-11-18": 183,
       "2026-01-29": 45
     }
   },
@@ -147,17 +144,17 @@
     "url": "https://repo.wabarc.eu.org/",
     "icon": "https://icons.duckduckgo.com/ip3/repo.wabarc.eu.org.ico",
     "slug": "packages-repository",
-    "status": "down",
-    "uptime": "98.57%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "89.89%",
-    "uptimeMonth": "87.37%",
-    "uptimeYear": "93.96%",
-    "time": 2041,
-    "timeDay": 421,
-    "timeWeek": 998,
-    "timeMonth": 550,
-    "timeYear": 1953,
+    "status": "up",
+    "uptime": "98.56%",
+    "uptimeDay": "77.34%",
+    "uptimeWeek": "86.89%",
+    "uptimeMonth": "86.63%",
+    "uptimeYear": "93.90%",
+    "time": 2040,
+    "timeDay": 645,
+    "timeWeek": 508,
+    "timeMonth": 562,
+    "timeYear": 1955,
     "dailyMinutesDown": {
       "2026-08-18": 83,
       "2026-08-19": 267,
@@ -226,7 +223,8 @@
       "2026-11-11": 23,
       "2026-11-15": 141,
       "2026-11-14": 854,
-      "2026-11-17": 0
+      "2026-11-18": 202,
+      "2026-11-17": 125
     }
   }
 ]
